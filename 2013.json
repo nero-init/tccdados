@@ -1,0 +1,90 @@
+{
+    "conteudo-0": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2013",
+        "titulo_obra": "Are Cryptocurrencies 'Super' Tax Havens?",
+        "autores": "Omri Y. Marian",
+        "link_href": "https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2414507_code592645.pdf?abstractid=2305863&mirid=1",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-1": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2013",
+        "titulo_obra": "Crypto-Currencies, Network Effects, and Switching Costs",
+        "autores": "William J. Luther",
+        "link_href": "https://doi.org/10.2139/ssrn.2295134",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-2": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2013",
+        "titulo_obra": "Sending a Bit More Coin Home? An Analysis of Retail User Protection in Bitcoin Remittance Markets",
+        "autores": "J. Harry Cotton",
+        "link_href": "https://doi.org/10.26686/vuwlr.v49i1.5313",
+        "publicacao": "| Victoria University of Wellington law review"
+    },
+    "conteudo-3": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2013",
+        "titulo_obra": "Adding Up the Bits and Pieces: How Big An Effect Will Bitcoin and Crypto Currency Exert on Remote and Interactive Gambling?",
+        "autores": "OwensMartin, A LavitchAction",
+        "link_href": "https://doi.org/10.1089/glre.2013.17107",
+        "publicacao": "- Mary Ann Liebert, Inc."
+    },
+    "conteudo-4": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2013",
+        "titulo_obra": "Breaking Bitcoin: Does Cryptocurrency Exchange Activity Lead to Increased Real Activity Outside Cryptocurrency Exchanges?",
+        "autores": "",
+        "link_href": "https://doi.org/10.2139/ssrn.2371343",
+        "publicacao": "| Social Science Research Network"
+    },
+    "conteudo-5": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2013",
+        "titulo_obra": "Morgan Stanley expecting higher platinum prices",
+        "autores": "",
+        "link_href": "https://doi.org/10.1016/s1351-4180(13)70002-3",
+        "publicacao": "- Elsevier BV"
+    },
+    "conteudo-6": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2013",
+        "titulo_obra": "The Bitcoin Arms Race is on!",
+        "autores": "Morgen E. Peck",
+        "link_href": "https://doi.org/10.1109/mspec.2013.6521016",
+        "publicacao": "- Institute of Electrical and Electronics Engineers"
+    },
+    "conteudo-7": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2013",
+        "titulo_obra": "What is Bitcoin?",
+        "autores": "Dominic Hobson",
+        "link_href": "https://doi.org/10.1145/2510124",
+        "publicacao": "- Association for Computing Machinery"
+    },
+    "conteudo-8": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2013",
+        "titulo_obra": "The promise and perils of digital currencies",
+        "autores": "Tyler Moore",
+        "link_href": "https://doi.org/10.1016/j.ijcip.2013.08.002",
+        "publicacao": "- Elsevier BV"
+    },
+    "conteudo-9": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2013",
+        "titulo_obra": "The Bitcoin Protocol as Law, and the Politics of a Stateless Currency",
+        "autores": "Sarah Jeong",
+        "link_href": "https://doi.org/10.2139/ssrn.2294124",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-10": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2013",
+        "titulo_obra": "Editorial for special issue: System and theoretical issues in designing and implementing scalable and sustainable wireless sensor networks",
+        "autores": "Xiangyang Li",
+        "link_href": "https://doi.org/10.1016/j.adhoc.2011.06.014",
+        "publicacao": "- Elsevier BV"
+    }
+}

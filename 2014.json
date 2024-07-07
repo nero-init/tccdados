@@ -1,0 +1,90 @@
+{
+    "conteudo-0": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2014",
+        "titulo_obra": "The Market for Cryptocurrencies",
+        "autores": "Lawrence H. White",
+        "link_href": "https://doi.org/10.2139/ssrn.2538290",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-1": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2014",
+        "titulo_obra": "Competition in the Cryptocurrency Market",
+        "autores": "Neil Gandal, Hanna Hałaburda",
+        "link_href": "https://doi.org/10.2139/ssrn.2506577",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-2": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2014",
+        "titulo_obra": "Can We Stabilize the Price of a Cryptocurrency?: Understanding the Design of Bitcoin and Its Potential to Compete with Central Bank Money",
+        "autores": "Mitsuru Iwamura, Yukinobu Kitamura, Tsutomu Matsumoto, Kenji Saito",
+        "link_href": "https://doi.org/10.2139/ssrn.2519367",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-3": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2014",
+        "titulo_obra": "The digital traces of bubbles: feedback cycles between socio-economic signals in the Bitcoin economy",
+        "autores": "David García, Claudio J. Tessone, Pavlin Mavrodiev, Nicolas Perony",
+        "link_href": "https://doi.org/10.1098/rsif.2014.0623",
+        "publicacao": "- Royal Society"
+    },
+    "conteudo-4": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2014",
+        "titulo_obra": "Is Bitcoin the Only Cryptocurrency in the Town? Economics of Cryptocurrency And Friedrich A. Hayek",
+        "autores": "Mitsuru Iwamura, Yukinobu Kitamura, Tsutomu Matsumoto",
+        "link_href": "https://doi.org/10.2139/ssrn.2405790",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-5": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2014",
+        "titulo_obra": "Competition in the Cryptocurrency Market",
+        "autores": "Neil Gandal, Hanna Hałaburda",
+        "link_href": "https://doi.org/10.2139/ssrn.2506463",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-6": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2014",
+        "titulo_obra": "Bitcoin: The Wrong Implementation of the Right Idea at the Right Time",
+        "autores": "Andrés Guadamuz, Christopher T. Marsden",
+        "link_href": "https://doi.org/10.2139/ssrn.2526736",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-7": {
+        "tipo_publicacao": "Capítulo de livro",
+        "ano": "2014",
+        "titulo_obra": "Mixcoin: Anonymity for Bitcoin with Accountable Mixes",
+        "autores": "Joseph Bonneau, Arvind Narayanan, Andrew Miller, Jeremy Clark, Joshua A. Kroll, Edward W. Felten",
+        "link_href": "https://doi.org/10.1007/978-3-662-45472-5_31",
+        "publicacao": "- Springer Science+Business Media"
+    },
+    "conteudo-8": {
+        "tipo_publicacao": "Capítulo de livro",
+        "ano": "2014",
+        "titulo_obra": "Increasing Anonymity in Bitcoin",
+        "autores": "Amitabh Saxena, Janardan Misra, Aritra Dhar",
+        "link_href": "https://doi.org/10.1007/978-3-662-44774-1_9",
+        "publicacao": "- Springer Science+Business Media"
+    },
+    "conteudo-9": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2014",
+        "titulo_obra": "Bitcoin: a regulatory nightmare to a libertarian dream",
+        "autores": "Primavera De Filippi",
+        "link_href": "https://doi.org/10.14763/2014.2.286",
+        "publicacao": "- Alexander von Humboldt Institute for Internet and Society"
+    },
+    "conteudo-10": {
+        "tipo_publicacao": "Capítulo de livro",
+        "ano": "2014",
+        "titulo_obra": "Majority Is Not Enough: Bitcoin Mining Is Vulnerable",
+        "autores": "Ittay Eyal, Emin Gün Sirer",
+        "link_href": "https://doi.org/10.1007/978-3-662-45472-5_28",
+        "publicacao": "- Springer Science+Business Media"
+    }
+}

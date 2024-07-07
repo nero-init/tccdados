@@ -1,0 +1,1194 @@
+{
+    "conteudo-0": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2022",
+        "titulo_obra": "Projecting and Infrastructuring: Designing Cryptocurrencies for the Solidarity Economy",
+        "autores": "Bruno Henrique Sanches, Marlei Pozzebon, Eduardo Henrique Diniz",
+        "link_href": "https://doi.org/10.5465/ambpp.2022.17112abstract",
+        "publicacao": "- Academy of Management"
+    },
+    "conteudo-1": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2023",
+        "titulo_obra": "Inferring interactions in multispecies communities: The cryptocurrency market case",
+        "autores": "Edgardo Brigatti, V. Rocha Grecco, Alexis R. Hernández, Mário Augusto Bertella",
+        "link_href": "https://doi.org/10.1371/journal.pone.0291130",
+        "publicacao": "- Public Library of Science"
+    },
+    "conteudo-2": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2020",
+        "titulo_obra": "Solidarity cryptocurrencies as digital community platforms",
+        "autores": "Eduardo Henrique Diniz, Adrian Kemmer Cernev, Denis Rodrigues, Fábio Lemes Daneluzzi",
+        "link_href": "https://doi.org/10.1080/02681102.2020.1827365",
+        "publicacao": "- Taylor & Francis"
+    },
+    "conteudo-3": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2019",
+        "titulo_obra": "Clustering patterns in efficiency and the coming-of-age of the cryptocurrency market",
+        "autores": "Higor Y. D. Sigaki, Matjaž Perc, Haroldo V. Ribeiro",
+        "link_href": "https://doi.org/10.1038/s41598-018-37773-3",
+        "publicacao": "- Nature Portfolio"
+    },
+    "conteudo-4": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2023",
+        "titulo_obra": "HYBRID MODEL FOR CRYPTOCURRENCY INVESTMENT STRATEGIES",
+        "autores": "Juan Guillermo Lazo Lazo, Gonzalo Hernan Herrera Medina, Alvaro Talavera, Luciana Faleti Almeida",
+        "link_href": "https://doi.org/10.55906/rcdhv8n1-004",
+        "publicacao": "| Campo da História"
+    },
+    "conteudo-5": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2023",
+        "titulo_obra": "Age and market capitalization drive large price variations of cryptocurrencies",
+        "autores": "Arthur A. B. Pessa, Matjaž Perc, Haroldo V. Ribeiro",
+        "link_href": "https://doi.org/10.1038/s41598-023-30431-3",
+        "publicacao": "- Nature Portfolio"
+    },
+    "conteudo-6": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2023",
+        "titulo_obra": "ASSESSMENT THE PREDICTABILITY IN THE PRICE DYNAMICS FOR THE TOP 10 CRYPTOCURRENCIES: THE IMPACTS OF RUSSIA–UKRAINE WAR",
+        "autores": "Fernando Henrique Antunes de Araujo, Leonardo H.S. Fernandes, José W L Silva, Kleber E. S. Sobrinho, Benjamin Miranda Tabak",
+        "link_href": "https://doi.org/10.1142/s0218348x23500421",
+        "publicacao": "- World Scientific"
+    },
+    "conteudo-7": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2021",
+        "titulo_obra": "The Diversification Benefits of Cryptocurrencies in Multi-Asset Portfolios: Cross-Country Evidence",
+        "autores": "Jéfferson Augusto Colombo, Fernando Ioannides Lopes da Cruz, Luis H. Z. Paese, Renan Xavier Cortes",
+        "link_href": "https://doi.org/10.2139/ssrn.3776260",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-8": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2019",
+        "titulo_obra": "The Essence of Cryptocurrencies: Descriptive and Comparative Analysis",
+        "autores": "Elena Sinelnikova-Muryleva, Kirill Shilov, Andrey Zubarev",
+        "link_href": "https://doi.org/10.26794/2587-5671-2019-23-6-36-49",
+        "publicacao": "- Finance University under the Government of the Russian Federation"
+    },
+    "conteudo-9": {
+        "tipo_publicacao": "Revisão",
+        "ano": "2022",
+        "titulo_obra": "Cryptocurrencies trading algorithms: A review",
+        "autores": "Isabela Ruiz Roque da Silva, Eli Hadad, Pedro Paulo Balbi de Oliveira",
+        "link_href": "https://doi.org/10.1002/for.2886",
+        "publicacao": "- Wiley"
+    },
+    "conteudo-10": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2020",
+        "titulo_obra": "On the transaction dynamics of the Ethereum-based cryptocurrency",
+        "autores": "Juliana Zanelatto Gavião Mascarenhas, Artur Ziviani, Klaus Wehmuth, Alex Borges Vieira",
+        "link_href": "https://doi.org/10.1093/comnet/cnaa042",
+        "publicacao": "- Oxford University Press"
+    },
+    "conteudo-11": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2023",
+        "titulo_obra": "Market efficiency assessment for multiple exchanges of cryptocurrencies",
+        "autores": "Orlando Telles Souza, João Vinícius de França Carvalho",
+        "link_href": "https://doi.org/10.1108/rege-05-2022-0070",
+        "publicacao": "- Emerald Publishing Limited"
+    },
+    "conteudo-12": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2018",
+        "titulo_obra": "Nonextensive triplets in cryptocurrency exchanges",
+        "autores": "Darko Stošić, Dusan Stošić, Teresa B. Ludermir, Tatijana Stošić",
+        "link_href": "https://doi.org/10.1016/j.physa.2018.04.066",
+        "publicacao": "- Elsevier BV"
+    },
+    "conteudo-13": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2018",
+        "titulo_obra": "Collective behavior of cryptocurrency price changes",
+        "autores": "Darko Stošić, Dusan Stošić, Teresa B. Ludermir, Tatijana Stošić",
+        "link_href": "https://doi.org/10.1016/j.physa.2018.05.050",
+        "publicacao": "- Elsevier BV"
+    },
+    "conteudo-14": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2022",
+        "titulo_obra": "HAS THE COVID-19 PANDEMIC AFFECTED THE FLOW OF INFORMATION AMONG CRYPTOCURRENCIES?",
+        "autores": "Kerolly Kedma Felix do Nascimento, Fábio Sandro dos Santos, Jader da Silva Jale, Sílvio Fernando Alves Xavier, Tiago A. E. Ferreira",
+        "link_href": "https://doi.org/10.1142/s0218348x22500992",
+        "publicacao": "- World Scientific"
+    },
+    "conteudo-15": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2023",
+        "titulo_obra": "Analyzing the Solo Mining Profitability of Zcash Cryptocurrency in the United States of America",
+        "autores": "Guilherme Albuquerque, Carlo Kleber da Silva Rodrigues",
+        "link_href": "https://doi.org/10.5753/jisa.2023.2756",
+        "publicacao": "- Springer Science+Business Media"
+    },
+    "conteudo-16": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2023",
+        "titulo_obra": "How does price (in)efficiency influence cryptocurrency portfolios performance? The role of multifractality",
+        "autores": "Eduardo Amorim Vilela de Salis, Leandro Maciel",
+        "link_href": "https://doi.org/10.1080/14697688.2023.2266448",
+        "publicacao": "- Taylor & Francis"
+    },
+    "conteudo-17": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2020",
+        "titulo_obra": "Cryptocurrencies: formation of returns from the CRIX index",
+        "autores": "Ricardo de Souza Tavares, João Frois Caldeira, Gerson de Souza Raimundo Júnior",
+        "link_href": "https://doi.org/10.1080/13504851.2020.1770680",
+        "publicacao": "- Taylor & Francis"
+    },
+    "conteudo-18": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2023",
+        "titulo_obra": "Economic Policy Uncertainty, Energy and Sustainable Cryptocurrencies: Investigating Dynamic Connectedness during the COVID-19 Pandemic",
+        "autores": "Inzamam Ul Haq, Paulo Ferreira, Derick David Quintino, Nhan Huynh, Saowanee Samantreeporn",
+        "link_href": "https://doi.org/10.3390/economies11030076",
+        "publicacao": "- Multidisciplinary Digital Publishing Institute"
+    },
+    "conteudo-19": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2023",
+        "titulo_obra": "Sentiment Identification on Tweets to Forecast Cryptocurrency’s Volatility",
+        "autores": "Rafael de Paula Aguiar Araújo, Alex Sandro Roschildt Pinto, Mauri Ferrandin",
+        "link_href": "https://doi.org/10.3844/jcssp.2023.619.628",
+        "publicacao": "- Science Publications"
+    },
+    "conteudo-20": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2023",
+        "titulo_obra": "CRYPTOCURRENCY AND FINANCIAL SYSTEM: SYSTEMATIC LITERATURE REVIEW",
+        "autores": "Viviane de Senna, Adriano Mendonça Souza",
+        "link_href": "https://doi.org/10.1590/s0034-759020230403x",
+        "publicacao": "- FUNDAÇÃO GETÚLIO VARGAS"
+    },
+    "conteudo-21": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2021",
+        "titulo_obra": "Fractional and fractal processes applied to cryptocurrencies price series",
+        "autores": "Sérgio Adriani David, Claudio Marcio Cassela Inacio, Rafael Amorim Belo Nunes, J. A. Tenreiro Machado",
+        "link_href": "https://doi.org/10.1016/j.jare.2020.12.012",
+        "publicacao": "- Elsevier BV"
+    },
+    "conteudo-22": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2021",
+        "titulo_obra": "High-frequency return and volatility spillovers among cryptocurrencies",
+        "autores": "Ahmet Şensoy, Thiago Christiano Silva, Shaen Corbet, Benjamin Miranda Tabak",
+        "link_href": "https://doi.org/10.1080/00036846.2021.1899119",
+        "publicacao": "- Taylor & Francis"
+    },
+    "conteudo-23": {
+        "tipo_publicacao": "Capítulo de livro",
+        "ano": "2021",
+        "titulo_obra": "Real and Virtual Token Economy Applied to Games: A Comparative Study Between Cryptocurrencies",
+        "autores": "Isabela Ruiz Roque da Silva, Nizam Omar",
+        "link_href": "https://doi.org/10.1007/978-3-030-80126-7_61",
+        "publicacao": "- Springer International Publishing"
+    },
+    "conteudo-24": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2022",
+        "titulo_obra": "The resilience of cryptocurrency market efficiency to COVID-19 shock",
+        "autores": "Leonardo H.S. Fernandes, Elie Bouri, José W L Silva, Lucian Bejan, Fernando Henrique Antunes de Araujo",
+        "link_href": "https://doi.org/10.1016/j.physa.2022.128218",
+        "publicacao": "- Elsevier BV"
+    },
+    "conteudo-25": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2021",
+        "titulo_obra": "Cryptocurrencies: technology, initiatives of banks and central banks, and regulatory challenges",
+        "autores": "Carlos Eduardo Carvalho, Desirée Almeida Pires, Marcel Artioli, Giuliano Contento de Oliveira",
+        "link_href": "https://doi.org/10.1590/1982-3533.2021v30n2art08",
+        "publicacao": "- UNIVERSIDADE ESTADUAL DE CAMPINAS"
+    },
+    "conteudo-26": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2023",
+        "titulo_obra": "Store of value or speculative investment? Market reaction to corporate announcements of cryptocurrency acquisition",
+        "autores": "André D. Gimenes, Jéfferson Augusto Colombo, Imran Yousaf",
+        "link_href": "https://doi.org/10.1186/s40854-023-00539-6",
+        "publicacao": "- Springer Nature"
+    },
+    "conteudo-27": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2022",
+        "titulo_obra": "Bubble detection in Bitcoin and Ethereum and its relationship with volatility regimes",
+        "autores": "Renan Diniz, Diogo de Prince, Leandro Maciel",
+        "link_href": "https://doi.org/10.1108/jes-09-2021-0452",
+        "publicacao": "- Emerald Publishing Limited"
+    },
+    "conteudo-28": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2019",
+        "titulo_obra": "Exploring disorder and complexity in the cryptocurrency space",
+        "autores": "Darko Stošić, Dusan Stošić, Teresa B. Ludermir, Tatijana Stošić",
+        "link_href": "https://doi.org/10.1016/j.physa.2019.03.091",
+        "publicacao": "- Elsevier BV"
+    },
+    "conteudo-29": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2022",
+        "titulo_obra": "Testing macroecological theories in cryptocurrency market: neutral models cannot describe diversity patterns and their variation",
+        "autores": "Edgardo Brigatti, Estevan Augusto Amazonas Mendes",
+        "link_href": "https://doi.org/10.1098/rsos.212005",
+        "publicacao": "- Royal Society"
+    },
+    "conteudo-30": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2019",
+        "titulo_obra": "Value-at-Risk and Expected Shortfall in Cryptocurrencies' Portfolio: A Vine Copula-based Approach",
+        "autores": "Carlos Trucíos, Aviral Kumar Tiwari, Faisal Alqahtani",
+        "link_href": "https://doi.org/10.2139/ssrn.3441892",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-31": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2020",
+        "titulo_obra": "It’s all in the timing again: simple active portfolio strategies that outperform naïve diversification in the cryptocurrency market",
+        "autores": "Ricardo de Souza Tavares, João Frois Caldeira, Gerson de Souza Raimundo Júnior",
+        "link_href": "https://doi.org/10.1080/13504851.2020.1859446",
+        "publicacao": "- Taylor & Francis"
+    },
+    "conteudo-32": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2020",
+        "titulo_obra": "CRYPTOCURRENCIES AND MONETARY THEORY: AN INTRODUCTION",
+        "autores": "Jefferson Donizeti Pereira Bertolai, Victor Augusto de Almeida Oliveira",
+        "link_href": "https://seer.ufrgs.br/AnaliseEconomica/article/download/84874/57389",
+        "publicacao": "| Análise Econômica"
+    },
+    "conteudo-33": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2019",
+        "titulo_obra": "Contagion Effect in Cryptocurrency Market",
+        "autores": "Paulo Ferreira, Éder Johnson de Area Leão Pereira",
+        "link_href": "https://doi.org/10.3390/jrfm12030115",
+        "publicacao": "- Multidisciplinary Digital Publishing Institute"
+    },
+    "conteudo-34": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2019",
+        "titulo_obra": "Multifractal behavior of price and volume changes in the cryptocurrency market",
+        "autores": "Darko Stošić, Dusan Stošić, Teresa B. Ludermir, Tatijana Stošić",
+        "link_href": "https://doi.org/10.1016/j.physa.2018.12.038",
+        "publicacao": "- Elsevier BV"
+    },
+    "conteudo-35": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2018",
+        "titulo_obra": "Technical Development, Asset Prices and Market Efficiency in Alternative Cryptocurrencies",
+        "autores": "Jamil Civitarese, Layla Mendes",
+        "link_href": "https://doi.org/10.2139/ssrn.3154124",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-36": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2021",
+        "titulo_obra": "Evolution of bitcoin as a Financial Asset",
+        "autores": "Kirill Shilov, Andrey Zubarev",
+        "link_href": "https://doi.org/10.26794/2587-5671-2021-25-5-150-171",
+        "publicacao": "- Finance University under the Government of the Russian Federation"
+    },
+    "conteudo-37": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2020",
+        "titulo_obra": "Criptomoedas e finanças: relação entre o retorno do Bitcoin e das principais moedas digitais",
+        "autores": "William Aparecido Maciel da Silva, Nicolle Caroline Brasil Martins, Ingrid de Andrade Miranda, Roberto Silva da Penha, Donizete Reina",
+        "link_href": "https://doi.org/10.5902/1983465930491",
+        "publicacao": "- UNIVERSIDADE FEDERAL DE SANTA MARIA"
+    },
+    "conteudo-38": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2019",
+        "titulo_obra": "Futuristic invisibility for user identity and data protection",
+        "autores": "John Carlo Quadrando, Cézar Teixeirao, Lois Fronzeco, Paulo Ezcudeiro",
+        "link_href": "https://doi.org/10.21744/irjmis.v6n5.716",
+        "publicacao": "| International journal of management, IT and social sciences"
+    },
+    "conteudo-39": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2023",
+        "titulo_obra": "Performance of the Realized-GARCH Model against Other GARCH Types in Predicting Cryptocurrency Volatility",
+        "autores": "Rosane Gomes de Paula Queiróz, Sérgio Adriani David",
+        "link_href": "https://doi.org/10.3390/risks11120211",
+        "publicacao": "- Multidisciplinary Digital Publishing Institute"
+    },
+    "conteudo-40": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2023",
+        "titulo_obra": "Do Asian Islamic Equities Offer Diversification Benefits in Cryptocurrency Portfolio in Times of Increased Uncertainty?",
+        "autores": "Ishaq Mustapha Akinlaso, Abdessamad Raghibi, Abdul-Baaqi Adebisi Jempeji",
+        "link_href": "https://doi.org/10.46557/001c.74922",
+        "publicacao": "| Asian economics letters"
+    },
+    "conteudo-41": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2020",
+        "titulo_obra": "Cryptocurrency: A Mine of Controversies",
+        "autores": "Graziela Molling, Amarolinda Zanela Klein, Norberto Hoppen, Rafael Dalla Rosa",
+        "link_href": "https://doi.org/10.4301/s1807-1775202017010",
+        "publicacao": "- UNIVERSIDADE DE SÃO PAULO"
+    },
+    "conteudo-42": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2021",
+        "titulo_obra": "Proposal of an Economy of Things Architecture and an Approach Comparing Cryptocurrencies",
+        "autores": "Bruno Machado Agostinho, Mário A. R. Dantas, Alex Sandro Roschildt Pinto",
+        "link_href": "https://doi.org/10.3390/s21093239",
+        "publicacao": "- Multidisciplinary Digital Publishing Institute"
+    },
+    "conteudo-43": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2020",
+        "titulo_obra": "Cryptocurrencies value‐at‐risk and expected shortfall: Do regime‐switching volatility models improve forecasting?",
+        "autores": "Leandro Maciel",
+        "link_href": "https://doi.org/10.1002/ijfe.2043",
+        "publicacao": "- Wiley-Blackwell"
+    },
+    "conteudo-44": {
+        "tipo_publicacao": "Capítulo de livro",
+        "ano": "2019",
+        "titulo_obra": "New Fuzzy Approaches to Cryptocurrencies Investment Recommendation Systems",
+        "autores": "Vinícius Luiz Amaral, Emmanuel T. Affonso, Alisson Marques da Silva, Gray Farias Moita, Paulo Almeida",
+        "link_href": "https://doi.org/10.1007/978-3-030-21920-8_13",
+        "publicacao": "- Springer Nature"
+    },
+    "conteudo-45": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2019",
+        "titulo_obra": "Cryptocurrencies: the communication inside Blockchain technology and the cross-border Tax Law",
+        "autores": "Andrea Romaoli Garcia, Pedro Henrique Romaoli Garcia",
+        "link_href": "https://doi.org/10.1504/ijbc.2019.10021394",
+        "publicacao": "| International journal of blockchains and cryptocurrencies"
+    },
+    "conteudo-46": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2019",
+        "titulo_obra": "Cryptocurrencies: the communication inside blockchain technology and the cross-border tax law",
+        "autores": "Andrea Romaoli Garcia, Pedro Henrique Romaoli Garcia",
+        "link_href": "https://doi.org/10.1504/ijbc.2019.101850",
+        "publicacao": "| International journal of blockchains and cryptocurrencies"
+    },
+    "conteudo-47": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2021",
+        "titulo_obra": "Cryptocurrencies for Microfinance",
+        "autores": "Lucas Lopes Ferreira de Souza, Ana Augusta Ferreira de Freitas, Jerffeson Souza, Samuel Façanha Câmara",
+        "link_href": "https://doi.org/10.1590/1807-7692bar2021200063",
+        "publicacao": "- Associação Nacional de Pós-Graduação e Pesquisa em Administração (ANPAD)"
+    },
+    "conteudo-48": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2020",
+        "titulo_obra": "DCCA and DMCA correlations of cryptocurrency markets",
+        "autores": "Paulo Ferreira, Ladislav Krištoufek, Éder Johnson de Area Leão Pereira",
+        "link_href": "https://doi.org/10.1016/j.physa.2019.123803",
+        "publicacao": "- Elsevier BV"
+    },
+    "conteudo-49": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2018",
+        "titulo_obra": "Risk Aversion and 51% Attack Resistance in Proof-of-Work Cryptocurrencies",
+        "autores": "Jamil Civitarese",
+        "link_href": "https://doi.org/10.2139/ssrn.3289317",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-50": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2020",
+        "titulo_obra": "Iota Tangle: A cryptocurrency to communicate Internet-of-Things data",
+        "autores": "Wellington Fernandes Silvano, Roderval Marcelino",
+        "link_href": "https://doi.org/10.1016/j.future.2020.05.047",
+        "publicacao": "- Elsevier BV"
+    },
+    "conteudo-51": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2023",
+        "titulo_obra": "Diversification with international assets and cryptocurrencies using Black-Litterman",
+        "autores": "Daniel Pereira Alves de Abreu, Robert Aldo Iquiapaza",
+        "link_href": "https://doi.org/10.1108/rege-05-2022-0080",
+        "publicacao": "- Emerald Publishing Limited"
+    },
+    "conteudo-52": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2022",
+        "titulo_obra": "Non-Fungible Token (NFT) Prices, Cryptocurrencies, Interest Rate and Gold: An Econometric Analysis (Jan. 2019-Aug. 2022)",
+        "autores": "Pedro Raffy Vartanian, Álvaro Alves de Moura, Joaquim Carlos Racy, Roberto Simioni Neto",
+        "link_href": "https://doi.org/10.5539/ijef.v15n1p1",
+        "publicacao": "- Canadian Center of Science and Education"
+    },
+    "conteudo-53": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2021",
+        "titulo_obra": "Blockchain Privacy Through Merge Avoidance and Mixing Services",
+        "autores": "Jefferson Elbert Simões, Eduardo Antônio Ferreira, Daniel Sadoc Menasché, Carlos Alberto Vieira Campos",
+        "link_href": "https://doi.org/10.1145/3466826.3466831",
+        "publicacao": "- Association for Computing Machinery"
+    },
+    "conteudo-54": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2020",
+        "titulo_obra": "Forecasting Value-at-Risk and Expected Shortfall of Cryptocurrencies using Combinations based on Jump-Robust and Regime-Switching Models",
+        "autores": "Carlos Trucíos, James W. Taylor",
+        "link_href": "https://doi.org/10.2139/ssrn.3751435",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-55": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2022",
+        "titulo_obra": "EXAMINING THE FRACTAL MARKET HYPOTHESIS CONSIDERING DAILY AND HIGH FREQUENCY FOR CRYPTOCURRENCY ASSETS",
+        "autores": "Werner Kristjanpoller, Leonardo H.S. Fernandes, Benjamin Miranda Tabak",
+        "link_href": "https://doi.org/10.1142/s0218348x22500700",
+        "publicacao": "- World Scientific"
+    },
+    "conteudo-56": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2022",
+        "titulo_obra": "Non-Fungible Tokens (NFTs) and Cryptocurrencies: Efficiency and Comovements",
+        "autores": "Éder Johnson de Area Leão Pereira, Paulo Ferreira, Derick David Quintino",
+        "link_href": "https://doi.org/10.3390/fintech1040023",
+        "publicacao": "| FinTech"
+    },
+    "conteudo-57": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2022",
+        "titulo_obra": "ASYMMETRIC MULTIFRACTAL CROSS-CORRELATION DYNAMICS BETWEEN FIAT CURRENCIES AND CRYPTOCURRENCIES",
+        "autores": "Leonardo H.S. Fernandes, Werner Kristjanpoller, Benjamin Miranda Tabak",
+        "link_href": "https://doi.org/10.1142/s0218348x23500068",
+        "publicacao": "- World Scientific"
+    },
+    "conteudo-58": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2018",
+        "titulo_obra": "An analysis of high-frequency cryptocurrencies prices dynamics using permutation-information-theory quantifiers",
+        "autores": "Aurelio F. Bariviera, Luciano Zunino, Osvaldo A. Rosso",
+        "link_href": "https://doi.org/10.1063/1.5027153",
+        "publicacao": "- American Institute of Physics"
+    },
+    "conteudo-59": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2020",
+        "titulo_obra": "Reinforcement Learning Applied to a Cryptocurrency Portfolio in a Complexity Environment",
+        "autores": "Daniel Sousa Barra, Helberte França Almeida, Rafael Jasper Feltrin, Solange Regina Marin",
+        "link_href": "https://doi.org/10.14393/ree-v36n1a2021-50850",
+        "publicacao": "| Economia Ensaios"
+    },
+    "conteudo-60": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2018",
+        "titulo_obra": "An Analysis of High-Frequency Cryptocurrencies Prices Dynamics Using Permutation-Information-Theory Quantifiers",
+        "autores": "Aurelio F. Bariviera, Luciano Zunino, Osvaldo A. Rosso",
+        "link_href": "https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3220728_code1182281.pdf?abstractid=3220728&mirid=1",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-61": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2022",
+        "titulo_obra": "Comparison of risk forecasts for cryptocurrencies: A focus on Range Value at Risk",
+        "autores": "Fernanda Maria Müller, Samuel Solgon Santos, Thalles Weber Gössling, Marcelo Brutti Righi",
+        "link_href": "https://doi.org/10.1016/j.frl.2022.102916",
+        "publicacao": "- Elsevier BV"
+    },
+    "conteudo-62": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2022",
+        "titulo_obra": "Extracting Rules via Markov Chains for Cryptocurrencies Returns Forecasting",
+        "autores": "Kerolly Kedma Felix do Nascimento, Fábio Sandro dos Santos, Jader da Silva Jale, Sílvio Fernando Alves Xavier Júnior, Tiago A. E. Ferreira",
+        "link_href": "https://doi.org/10.1007/s10614-022-10237-7",
+        "publicacao": "- Springer Science+Business Media"
+    },
+    "conteudo-63": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2022",
+        "titulo_obra": "Assessing technological trends through patent landscaping: The case of Bitcoin",
+        "autores": "Gabriel Marcuzzo do Canto Cavalheiro, Mariana Brandão Cavalheiro",
+        "link_href": "https://doi.org/10.1111/jwip.12216",
+        "publicacao": "- Wiley-Blackwell"
+    },
+    "conteudo-64": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2021",
+        "titulo_obra": "Crypto-Hotwire",
+        "autores": "Felipe Ribas Coutinho, Victor Pires, Claudio Miceli, Daniel Sadoc Menasché",
+        "link_href": "https://doi.org/10.1145/3466826.3466830",
+        "publicacao": "- Association for Computing Machinery"
+    },
+    "conteudo-65": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2020",
+        "titulo_obra": "IS BITCOIN AN OPPORTUNITY OR A THREAT TO THE RELEVANCE OF ACCOUNTING INFORMATION?",
+        "autores": "Ronan Reis Marçal, Bruno Prata Chacon, Leonardo Flach",
+        "link_href": "https://doi.org/10.21714/2446-9114rmc2020v21n1t04",
+        "publicacao": "- Conselho Regional de Contabilidade de Minas Gerais"
+    },
+    "conteudo-66": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2017",
+        "titulo_obra": "Comparative analysis in the clearance process of credit cards, cryptocurrency and brokerage",
+        "autores": "Nicholas Leonardi Zanutim, Johan Hendrik Poker",
+        "link_href": "https://doi.org/10.19146/pibic-2017-78247",
+        "publicacao": "| Anais do Congresso de Iniciação Científica da Unicamp"
+    },
+    "conteudo-67": {
+        "tipo_publicacao": "Capítulo de livro",
+        "ano": "2019",
+        "titulo_obra": "Market Prediction in Criptocurrency: A Systematic Literature Mapping",
+        "autores": "André Henrique de Oliveira Monteiro, Adler Diniz de Souza, Bruno C. Batista, Mauricio Zaparoli",
+        "link_href": "https://doi.org/10.1007/978-3-030-14070-0_85",
+        "publicacao": "- Springer Nature"
+    },
+    "conteudo-68": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2022",
+        "titulo_obra": "A Comparison of Methods for Forecasting Value-at-Risk and Expected Shortfall of Cryptocurrencies",
+        "autores": "Carlos Trucíos, James W. Taylor",
+        "link_href": "https://doi.org/10.2139/ssrn.4005619",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-69": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2022",
+        "titulo_obra": "SIMULAÇÃO DE DUAS TÉCNICAS DE PREDIÇÃO PARA NEGOCIAÇÃO DE CRIPTOMOEDAS",
+        "autores": "M. F. L. FURLAN, W. IGARASHI, D. C. C. IGARASHI",
+        "link_href": "https://doi.org/10.5212/admpg.v.12.21113.008",
+        "publicacao": "| Revista ADMpg"
+    },
+    "conteudo-70": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2021",
+        "titulo_obra": "Going beyond Cryptocurrencies: The Social Representation of Blockchain",
+        "autores": "Luiz Antônio Jóia, Juliana Aparecida Pinto Vieira",
+        "link_href": "https://doi.org/10.3390/su132414054",
+        "publicacao": "- Multidisciplinary Digital Publishing Institute"
+    },
+    "conteudo-71": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2022",
+        "titulo_obra": "PERCEPÇÃO DE ACADÊMICOS DE CIÊNCIAS SOCIAIS APLICADAS QUANTO AO RECONHECIMENTO DE CRIPTOMOEDAS NAS DEMONSTRAÇÕES FINANCEIRAS",
+        "autores": "R. K. P. SANTOS, D. C. C. IGARASHI, W. IGARASHI, L. F. B LIMA",
+        "link_href": "https://doi.org/10.5212/admpg.v.12.21135.010",
+        "publicacao": "| Revista ADMpg"
+    },
+    "conteudo-72": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2020",
+        "titulo_obra": "Blockchain Competition Between Miners: A Game Theoretic Perspective",
+        "autores": "Eitan Altman, Daniel Sadoc Menasché, Alexandre Reiffers, Mandar Datar, Swapnil Dhamal, Corinne Touati, Rachid El-Azouzi",
+        "link_href": "https://doi.org/10.3389/fbloc.2019.00026",
+        "publicacao": "- Frontiers Media"
+    },
+    "conteudo-73": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2022",
+        "titulo_obra": "A comparison of methods for forecasting value at risk and expected shortfall of cryptocurrencies",
+        "autores": "Carlos Trucíos, James W. Taylor",
+        "link_href": "https://doi.org/10.1002/for.2929",
+        "publicacao": "- Wiley"
+    },
+    "conteudo-74": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2023",
+        "titulo_obra": "The nilcatenation problem and its application for detecting money laundering activities in cryptocurrency networks",
+        "autores": "Clynton Tomacheski, Anolan Milanés, Sebastián Urrutia",
+        "link_href": "https://doi.org/10.1111/itor.13353",
+        "publicacao": "- Wiley-Blackwell"
+    },
+    "conteudo-75": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2019",
+        "titulo_obra": "Evolvable fuzzy systems from data streams with missing values: With application to temporal pattern recognition and cryptocurrency prediction",
+        "autores": "Cristiano Mesquita Garcia, Ahmed Ali Abdalla Esmin, Daniel Leite, Igor Škrjanc",
+        "link_href": "https://doi.org/10.1016/j.patrec.2019.09.012",
+        "publicacao": "- Elsevier BV"
+    },
+    "conteudo-76": {
+        "tipo_publicacao": "Capítulo de livro",
+        "ano": "2020",
+        "titulo_obra": "A Survey of KYC/AML for Cryptocurrencies Transactions",
+        "autores": "Suzana Maranhão Moreno, Jean-Marc Seigneur, Gueorgui Gotzev",
+        "link_href": "https://doi.org/10.4018/978-1-7998-5728-0.ch002",
+        "publicacao": "- IGI Global"
+    },
+    "conteudo-77": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2020",
+        "titulo_obra": "Market Stress and Herding: A New Approach to the Cryptocurrency Market",
+        "autores": "Gerson de Souza Raimundo Júnior, Rafael Baptista Palazzi, Ricardo de Souza Tavares, Marcelo Cabús Klötzle",
+        "link_href": "https://doi.org/10.1080/15427560.2020.1821688",
+        "publicacao": "- Routledge"
+    },
+    "conteudo-78": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2020",
+        "titulo_obra": "Dynamic characteristic of Bitcoin cryptocurrency in the reconstruction scheme",
+        "autores": "P.R.L. Alves",
+        "link_href": "https://doi.org/10.1016/j.chaos.2020.109692",
+        "publicacao": "- Elsevier BV"
+    },
+    "conteudo-79": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2022",
+        "titulo_obra": "Outperforming algorithmic trading reinforcement learning systems: A supervised approach to the cryptocurrency market",
+        "autores": "Leonardo Kanashiro Felizardo, Francisco Caio Lima Paiva, Catharine de Vita Graves, Élia Yathie Matsumoto, Anna Helena Reali Costa, Emílio Del-Moral-Hernandez, Paolo Brandimarte",
+        "link_href": "https://doi.org/10.1016/j.eswa.2022.117259",
+        "publicacao": "- Elsevier BV"
+    },
+    "conteudo-80": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2019",
+        "titulo_obra": "Herding behavior and contagion in the cryptocurrency market",
+        "autores": "Paulo Vitor Jordão da Gama Silva, Marcelo Cabús Klötzle, Antônio Carlos Figueiredo Pinto, Leonardo Lima Gomes",
+        "link_href": "https://doi.org/10.1016/j.jbef.2019.01.006",
+        "publicacao": "- Elsevier BV"
+    },
+    "conteudo-81": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2022",
+        "titulo_obra": "Time-varying higher moments in Bitcoin",
+        "autores": "Leonardo Ieracitano Vieira, Márcio Poletti Laurini",
+        "link_href": "https://doi.org/10.1007/s42521-022-00072-8",
+        "publicacao": "- Springer Science+Business Media"
+    },
+    "conteudo-82": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2018",
+        "titulo_obra": "Multifractal analysis of Bitcoin market",
+        "autores": "Antônio Carlos da Silva Filho, Natália Diniz Maganini, Eduardo Fonseca de Almeida",
+        "link_href": "https://doi.org/10.1016/j.physa.2018.08.076",
+        "publicacao": "- Elsevier BV"
+    },
+    "conteudo-83": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2018",
+        "titulo_obra": "The best of two worlds: Forecasting high frequency volatility for cryptocurrencies and traditional currencies with Support Vector Regression",
+        "autores": "Yaohao Peng, Pedro Henrique Melo Albuquerque, Jader Martins Camboim de Sá, Ana Julia Akaishi Padula, Mariana Rosa Montenegro",
+        "link_href": "https://doi.org/10.1016/j.eswa.2017.12.004",
+        "publicacao": "- Elsevier BV"
+    },
+    "conteudo-84": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2019",
+        "titulo_obra": "Mining competition in a multi-cryptocurrency ecosystem at the network edge",
+        "autores": "Eitan Altman, Alexandre Reiffers, Daniel Sadoc Menasché, Mandar Datar, Swapnil Dhamal, Corinne Touati",
+        "link_href": "https://doi.org/10.1145/3308897.3308950",
+        "publicacao": "- Association for Computing Machinery"
+    },
+    "conteudo-85": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2019",
+        "titulo_obra": "Volatility estimation for cryptocurrencies using Markov-switching GARCH models",
+        "autores": "Paulo Vitor Jordão da Gama Silva, Marcelo Cabús Klötzle, Antônio Carlos Figueiredo Pinto, Leonardo Lima Gomes",
+        "link_href": "https://doi.org/10.1504/ijfmd.2019.101234",
+        "publicacao": "| International journal of financial markets and derivatives"
+    },
+    "conteudo-86": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2017",
+        "titulo_obra": "Tributação e Moedas Virtuais (Virtual Currencies and Taxation)",
+        "autores": "Bruno Schimitt Morassutti, Alexander Machado Cardoso",
+        "link_href": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3194337",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-87": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2019",
+        "titulo_obra": "Predicting the direction, maximum, minimum and closing prices of daily Bitcoin exchange rate using machine learning techniques",
+        "autores": "Dennys C. A. Mallqui, Ricardo A. S. Fernandes",
+        "link_href": "https://doi.org/10.1016/j.asoc.2018.11.038",
+        "publicacao": "- Elsevier BV"
+    },
+    "conteudo-88": {
+        "tipo_publicacao": "Capítulo de livro",
+        "ano": "2021",
+        "titulo_obra": "Adaptive Interval Fuzzy Modeling from Stream Data and Application in Cryptocurrencies Forecasting",
+        "autores": "Leandro Maciel, Rosângela Ballini, Fernando Gomide",
+        "link_href": "https://doi.org/10.1007/978-3-030-81561-5_7",
+        "publicacao": "- Springer Nature"
+    },
+    "conteudo-89": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2019",
+        "titulo_obra": "Inovação na governança da água: o papel da tecnologia blockchain e dos sistemas complexos de fluxos",
+        "autores": "Ranulfo Paiva Sobrinho, Júnior Ruiz Garcia, Alexandre Gori Maia, Ademar Ribeiro Romeiro",
+        "link_href": "https://doi.org/10.20396/rbi.v18i1.8654757",
+        "publicacao": "- UNIVERSIDADE ESTADUAL DE CAMPINAS"
+    },
+    "conteudo-90": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2021",
+        "titulo_obra": "DARK Classics in Chemical Neuroscience: Bucinnazine",
+        "autores": "Karissa Resnik, Pedro Brandão, Emanuele Amorim Alves",
+        "link_href": "https://doi.org/10.1021/acschemneuro.1c00522",
+        "publicacao": "- American Chemical Society"
+    },
+    "conteudo-91": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2018",
+        "titulo_obra": "Taxation of Investments in Bitcoins and Other Virtual Currencies: International Trends and the Brazilian Approach",
+        "autores": "Flavio Rubinstein, Gustavo Gonçalves Vettori",
+        "link_href": "https://doi.org/10.2139/ssrn.3135580",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-92": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2021",
+        "titulo_obra": "Bitcoin: Cointegração Entre o Mercado Brasileiro e o Mercado Americano",
+        "autores": "Marília Palhares Bittencourt, André Nunes, Alexandre Nascimento de Almeida, Celso Vila Nova de Souza Júnior",
+        "link_href": "https://doi.org/10.12819/2021.18.02.8.1",
+        "publicacao": "- Faculdade Santo Agostinho"
+    },
+    "conteudo-93": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2022",
+        "titulo_obra": "Using FIWARE and blockchain in smart cities solutions",
+        "autores": "Stefano Loss, Har Preet Singh, Nélio Cacho, Frederico Lopes",
+        "link_href": "https://doi.org/10.1007/s10586-022-03732-x",
+        "publicacao": "- Springer Science+Business Media"
+    },
+    "conteudo-94": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2019",
+        "titulo_obra": "Towards Characterizing Architecture and Performance in Blockchain: A Survey",
+        "autores": "Fabrício Reis Furtado, Josué Valtair Silva e Silva, Márcio Junior Cappellari, Cláudio Henrique Murussi Castilhos, Vinicius Facco Rodrigues, Cristiano André da Costa, Rodrigo da Rosa Righi",
+        "link_href": "https://doi.org/10.1504/ijbc.2019.10027994",
+        "publicacao": "| International journal of blockchains and cryptocurrencies"
+    },
+    "conteudo-95": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2023",
+        "titulo_obra": "A Discourse Analysis of Tweets and Its Implications for Cryptocurrency Prices and Trade Volumes",
+        "autores": "Kamyr Gomes de Souza, Flávio Barboza, Daniel Vitor Tartari Garruti",
+        "link_href": "https://doi.org/10.1007/s10614-023-10504-1",
+        "publicacao": "- Springer Science+Business Media"
+    },
+    "conteudo-96": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2023",
+        "titulo_obra": "N-BEATS Perceiver: A Novel Approach for Robust Cryptocurrency Portfolio Forecasting",
+        "autores": "Attilio Sbrana, Paulo André Lima de Castro",
+        "link_href": "https://doi.org/10.1007/s10614-023-10470-8",
+        "publicacao": "- Springer Science+Business Media"
+    },
+    "conteudo-97": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2023",
+        "titulo_obra": "Scaled Muth–ARMA Process Applied to Finance Market",
+        "autores": "Abraão D. C. Nascimento, Maria do Carmo S. Lima, Hassan S. Bakouch, Najla Qarmalah",
+        "link_href": "https://doi.org/10.3390/math11081908",
+        "publicacao": "- Multidisciplinary Digital Publishing Institute"
+    },
+    "conteudo-98": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2023",
+        "titulo_obra": "Automated Emerging Cyber Threat Identification and Profiling Based on Natural Language Processing",
+        "autores": "Renato Marinho, Raimir Holanda Filho",
+        "link_href": "https://doi.org/10.1109/access.2023.3260020",
+        "publicacao": "- Institute of Electrical and Electronics Engineers"
+    },
+    "conteudo-99": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2022",
+        "titulo_obra": "A drone-based data management and optimization using metaheuristic algorithms and blockchain smart contracts in a secure fog environment",
+        "autores": "Abdullah Ayub Khan, Asif Ali Laghari, Thippa Reddy Gadekallu, Zaffar Ahmed Shaikh, Abdul Rehman Javed, Mamoon Rashid, Vania V. Estrela, Alexey Mikhaylov",
+        "link_href": "https://doi.org/10.1016/j.compeleceng.2022.108234",
+        "publicacao": "- Elsevier BV"
+    },
+    "conteudo-100": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2022",
+        "titulo_obra": "Bitcoin: an analysis of the accounting and finance research published in international journals",
+        "autores": "Vinícius Henrique Rocha Araújo, Thiago Alberto d, os Reis Prado, Juliano Augusto Orsi d, E.R. Araújo",
+        "link_href": "https://doi.org/10.1504/ijisam.2022.128545",
+        "publicacao": "| International journal of information systems and management"
+    },
+    "conteudo-101": {
+        "tipo_publicacao": "Capítulo de livro",
+        "ano": "2023",
+        "titulo_obra": "Velluscinum: A Middleware for Using Digital Assets in Multi-agent Systems",
+        "autores": "Nilson Mori Lazarin, Igor Machado Coelho, Carlos Eduardo Pantoja, José Viterbo",
+        "link_href": "https://doi.org/10.1007/978-3-031-37616-0_17",
+        "publicacao": "- Springer Science+Business Media"
+    },
+    "conteudo-102": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2021",
+        "titulo_obra": "ChainElastic: A Cloud Computing Resource Elasticity Model for IoT-based Blockchain Applications",
+        "autores": "Vinicius Facco Rodrigues, Josué Valtair Silva e Silva, Rodrigo da Rosa Righi, Cristiano André da Costa, Alex Roehrs",
+        "link_href": "https://doi.org/10.1504/ijbc.2021.10038756",
+        "publicacao": "| International journal of blockchains and cryptocurrencies"
+    },
+    "conteudo-103": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2021",
+        "titulo_obra": "Bitcoin: Cointegração Entre o Mercado Brasileiro e o Mercado Americano",
+        "autores": "Marília Palhares Bittencourt, André Nunes, Alexandre Nascimento de Almeida, Celso Vila Nova de Souza Júnior",
+        "link_href": "https://doi.org/10.12819/2021.18.02.8",
+        "publicacao": "- Faculdade Santo Agostinho"
+    },
+    "conteudo-104": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2021",
+        "titulo_obra": "SISTEMA HÍBRIDO PARA TOMADA DE DECISÃO EM INVESTIMENTOS NO MERCADO DE CRIPTOMOEDAS / HYBRID SYSTEM FOR DECISION MAKING IN INVESTMENTS IN THE CRYPTOCURRENCY MARKET",
+        "autores": "Juan Guillermo Lazo Lazo, Gonzalo H. Herrera Medina, Luciana Faletti Almeida, Álvaro Talavera",
+        "link_href": "https://doi.org/10.34117/bjdv7n2-549",
+        "publicacao": "- Brazilian Journal of Development"
+    },
+    "conteudo-105": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2019",
+        "titulo_obra": "Contribuição do Bitcoin na melhora da eficiência de um portfólio de investimentos",
+        "autores": "Ana Luísa Moutinho, Roberto Silva da Penha",
+        "link_href": "https://doi.org/10.5935/2177-4153.20190018",
+        "publicacao": "| Revista Capital Científico"
+    },
+    "conteudo-106": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2020",
+        "titulo_obra": "Correction to: MineCap: super incremental learning for detecting and blocking cryptocurrency mining on software-defined networking",
+        "autores": "Helio N. Cunha Neto, Martin Andreoni Lopez, Natália C. Fernandes, Diogo M. F. Mattos",
+        "link_href": "https://doi.org/10.1007/s12243-020-00752-9",
+        "publicacao": "- Springer Nature"
+    },
+    "conteudo-107": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2019",
+        "titulo_obra": "Blockchain Technology applied to Education",
+        "autores": "David Nadler Prata, H. X. Araujo, Cleórbete Santos",
+        "link_href": "https://doi.org/10.22161/ijaers.6736",
+        "publicacao": "- AI Publications"
+    },
+    "conteudo-108": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2021",
+        "titulo_obra": "Moeda Seeds: E-Commerce and Crypto Solutions for Development",
+        "autores": "Letícia Cristina Kanegae, Adrian Kemmer Cernev, Eduardo Henrique Diniz",
+        "link_href": "https://doi.org/10.1590/1982-7849rac2021200224.en",
+        "publicacao": "- Associação Nacional de Pós-Graduação e Pesquisa em Administração (ANPAD)"
+    },
+    "conteudo-109": {
+        "tipo_publicacao": "Capítulo de livro",
+        "ano": "2019",
+        "titulo_obra": "Consensus Algorithms: A Matter of Complexity?",
+        "autores": "Renato P. dos Santos",
+        "link_href": "https://doi.org/10.1142/9781786346391_0008",
+        "publicacao": "| Between science and economics"
+    },
+    "conteudo-110": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2021",
+        "titulo_obra": "Adoption phases of Green Information Technology in enhanced sustainability: A bibliometric study",
+        "autores": "Marcos Paulo Laranja Ribeiro, Roberto Tommasetti, Mônica Zaidan Gomes, Aline R.S.F. de Castro, André Martins Ismail",
+        "link_href": "https://doi.org/10.1016/j.clet.2021.100095",
+        "publicacao": "- Elsevier BV"
+    },
+    "conteudo-111": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2021",
+        "titulo_obra": "INTEGRATION OF DIGITAL CERTIFICATES AND BLOCKCHAIN TIMESTAMPING TO PROVIDE A DIGITAL NOTARIZATION SERVICE",
+        "autores": "Elton Eiji Sasaki, Egon Walter Wildauer",
+        "link_href": "https://doi.org/10.1504/ijbc.2021.10040516",
+        "publicacao": "| International journal of blockchains and cryptocurrencies"
+    },
+    "conteudo-112": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2020",
+        "titulo_obra": "BITCOIN NOS REGISTROS CONTÁBEIS",
+        "autores": "Paulo Souza Leal",
+        "link_href": "http://faculdadedelta.edu.br/revistas3/index.php/gt/article/download/39/49",
+        "publicacao": "| Revista Gestão & Tecnologia"
+    },
+    "conteudo-113": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2021",
+        "titulo_obra": "Steganographic Analysis of Blockchains",
+        "autores": "Alexandre Augusto Giron, Jean Everson Martina, Ricardo Felipe Custódio",
+        "link_href": "https://doi.org/10.3390/s21124078",
+        "publicacao": "- Multidisciplinary Digital Publishing Institute"
+    },
+    "conteudo-114": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2022",
+        "titulo_obra": "Impacts of short and long-term between cryptocurrencies and stock exchange indexes",
+        "autores": "Viviane de Senna, Adriano Mendonça Souza",
+        "link_href": "https://doi.org/10.1007/s11135-022-01356-2",
+        "publicacao": "- Springer Science+Business Media"
+    },
+    "conteudo-115": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2022",
+        "titulo_obra": "The Resilience of Cryptocurrency Market Efficiency to COVID-19 Shock",
+        "autores": "Leonardo H.S. Fernandes, Lucian Bejan, José W L Silva, Elie Bouri, Fernando Henrique Antunes de Araujo",
+        "link_href": "https://doi.org/10.2139/ssrn.4069490",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-116": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2019",
+        "titulo_obra": "BITCOIN: ANÁLISE DA PRODUÇÃO CIENTÍFICA INTERNACIONAL DE 2008 A 2017",
+        "autores": "Henrique César Melo Ribeiro",
+        "link_href": "https://doi.org/10.17648/sinergia-2236-7608-v23n1-8832",
+        "publicacao": "- UNIVERSIDADE FEDERAL DO RIO GRANDE"
+    },
+    "conteudo-117": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2021",
+        "titulo_obra": "Address Name System: Wallet Ownership Resolution Based on Reliable Self-Declaration",
+        "autores": "Marcelo M. Soares, Rostand Costa",
+        "link_href": "https://doi.org/10.1109/tla.2021.9461842",
+        "publicacao": "- Institute of Electrical and Electronics Engineers"
+    },
+    "conteudo-118": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2022",
+        "titulo_obra": "A Blockchain integration to support transactions of assets in multi-agent systems",
+        "autores": "Fernando Gomes Papi, Jomi Fred Hübner, Maiquel de Brito",
+        "link_href": "https://doi.org/10.1016/j.engappai.2021.104534",
+        "publicacao": "- Elsevier BV"
+    },
+    "conteudo-119": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2021",
+        "titulo_obra": "Adaptive fuzzy modeling of interval-valued stream data and application in cryptocurrencies prediction",
+        "autores": "Leandro Maciel, Rosângela Ballini, Fernando Gomide",
+        "link_href": "https://doi.org/10.1007/s00521-021-06263-5",
+        "publicacao": "- Springer Science+Business Media"
+    },
+    "conteudo-120": {
+        "tipo_publicacao": "Capítulo de livro",
+        "ano": "2018",
+        "titulo_obra": "An Approach to Develop Software that Uses Blockchain",
+        "autores": "Samantha L. S. Almeida, Adriano Bessa Albuquerque, Andreia Silva",
+        "link_href": "https://doi.org/10.1007/978-3-319-91186-1_36",
+        "publicacao": "- Springer Nature"
+    },
+    "conteudo-121": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2018",
+        "titulo_obra": "Forecasting Bitcoin Risk Measures: A Robust Approach",
+        "autores": "Carlos Trucíos",
+        "link_href": "https://doi.org/10.2139/ssrn.3189446",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-122": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2021",
+        "titulo_obra": "Hedging renewable energy investments with Bitcoin mining",
+        "autores": "Carlos de Lamare Bastian-Pinto, Felipe Van de Sande Araujo, Luiz Eduardo Teixeira Brandão, Leonardo Lima Gomes",
+        "link_href": "https://doi.org/10.1016/j.rser.2020.110520",
+        "publicacao": "- Elsevier BV"
+    },
+    "conteudo-123": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2020",
+        "titulo_obra": "Efficiency of the Brazilian Bitcoin: A DFA Approach",
+        "autores": "Derick David Quintino, Jéssica Suárez Campoli, Heloísa Lee Burnquist, Paulo Ferreira",
+        "link_href": "https://doi.org/10.3390/ijfs8020025",
+        "publicacao": "- Multidisciplinary Digital Publishing Institute"
+    },
+    "conteudo-124": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2021",
+        "titulo_obra": "IoT Registration and Authentication in Smart City Applications with Blockchain",
+        "autores": "Célio Márcio Soares Ferreira, Charles Tim Batista Garrocho, Ricardo Augusto Rabelo Oliveira, Jorge Sá Silva, Carlos Frederico Marcelo da Cunha Cavalcanti",
+        "link_href": "https://doi.org/10.3390/s21041323",
+        "publicacao": "- Multidisciplinary Digital Publishing Institute"
+    },
+    "conteudo-125": {
+        "tipo_publicacao": "Capítulo de livro",
+        "ano": "2020",
+        "titulo_obra": "Bitcoin Blockchain Steganographic Analysis",
+        "autores": "Alexandre Augusto Giron, Jean Everson Martina, Ricardo Felipe Custódio",
+        "link_href": "https://doi.org/10.1007/978-3-030-61638-0_3",
+        "publicacao": "- Springer Science+Business Media"
+    },
+    "conteudo-126": {
+        "tipo_publicacao": "Capítulo de livro",
+        "ano": "2021",
+        "titulo_obra": "Combining Natural Language Processing and Blockchain for Smart Contract Generation in the Accounting and Legal Field",
+        "autores": "Emiliano Monteiro, Rodrigo da Rosa Righi, Rafael Kunst, Cristiano André da Costa, Dhananjay Singh",
+        "link_href": "https://doi.org/10.1007/978-3-030-68449-5_31",
+        "publicacao": "- Springer Science+Business Media"
+    },
+    "conteudo-127": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2019",
+        "titulo_obra": "Dynamic Relationship of Cryptocurrency Prices and Investor Attention",
+        "autores": "Pedro Piccoli, Mo Chaudhury",
+        "link_href": "https://doi.org/10.2139/ssrn.3327232",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-128": {
+        "tipo_publicacao": "Capítulo de livro",
+        "ano": "2021",
+        "titulo_obra": "Dollar Hegemony Under Challenge and the Rise of Central Bank Digital Currencies (CBDC): A New Form of World Money?",
+        "autores": "Gustavo Moura de Cavalcanti Mello, Paulo Nakatani, Erebus Wong",
+        "link_href": "https://doi.org/10.1007/978-3-030-82298-9_6",
+        "publicacao": "- Springer International Publishing"
+    },
+    "conteudo-129": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2020",
+        "titulo_obra": "A Commons Strategy for Promoting Entrepreneurship and Social Capital: Implications for Community Currencies, Cryptocurrencies, and Value Exchange",
+        "autores": "Ana Cristina O. Siqueira, Benson Honig, Sandra Regina Holanda Mariano, Joysi Moraes",
+        "link_href": "https://doi.org/10.1007/s10551-020-04578-2",
+        "publicacao": "- Springer Science+Business Media"
+    },
+    "conteudo-130": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2021",
+        "titulo_obra": "Blockchain, Cryptocurrencies, and Distributed Organizations",
+        "autores": "Jorge Renato Verschoore, Eduardo Henrique Diniz, Ricardo Colomo‐Palacios",
+        "link_href": "https://doi.org/10.1590/1807-7692bar2021210109",
+        "publicacao": "- Associação Nacional de Pós-Graduação e Pesquisa em Administração (ANPAD)"
+    },
+    "conteudo-131": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2018",
+        "titulo_obra": "Does Metcalfe's Law Explain Bitcoin Prices? A Time Series Analysis",
+        "autores": "Jamil Civitarese",
+        "link_href": "https://doi.org/10.2139/ssrn.3107895",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-132": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2021",
+        "titulo_obra": "Price dynamics of cryptocurrencies in parallel markets: evidence from Bitcoin exchanges in Brazil",
+        "autores": "Daniel Modenesi de Andrade, Fernando C. Barros, Fábio Yoshio Suguri Motoki, Matheus Oliveira da Silva",
+        "link_href": "https://doi.org/10.1108/sef-11-2020-0450",
+        "publicacao": "- Emerald Publishing Limited"
+    },
+    "conteudo-133": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2020",
+        "titulo_obra": "L7SP: a layer seven service provider for private blockchain systems",
+        "autores": "Fabrício Reis Furtado, Rodrigo da Rosa Righi, Cristiano André da Costa, Alex Roehrs, Madhusudan Singh",
+        "link_href": "https://doi.org/10.1504/ijbc.2020.10033788",
+        "publicacao": "| International journal of blockchains and cryptocurrencies"
+    },
+    "conteudo-134": {
+        "tipo_publicacao": "Capítulo de livro",
+        "ano": "2019",
+        "titulo_obra": "Blockchain Technologies for IoT",
+        "autores": "Volkan Dedeoglu, Raja Jurdak, Ali Dorri, Roben Castagna Lunardi, Regio A. Michelin, Avelino F. Zorzo, Salil S. Kanhere",
+        "link_href": "https://doi.org/10.1007/978-981-13-8775-3_3",
+        "publicacao": "- Springer International Publishing"
+    },
+    "conteudo-135": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2019",
+        "titulo_obra": "Equilibria in the tangle",
+        "autores": "Serguei Popov, Olivia Saa, Paulo Finardi",
+        "link_href": "https://doi.org/10.1016/j.cie.2019.07.025",
+        "publicacao": "- Elsevier BV"
+    },
+    "conteudo-136": {
+        "tipo_publicacao": "Capítulo de livro",
+        "ano": "2022",
+        "titulo_obra": "Science, Metaphors, and Memes",
+        "autores": "Peter Ludlow",
+        "link_href": "https://doi.org/10.1007/978-3-030-90688-7_3",
+        "publicacao": "- Springer International Publishing"
+    },
+    "conteudo-137": {
+        "tipo_publicacao": "Capítulo de livro",
+        "ano": "2020",
+        "titulo_obra": "Blockchain and Conservation: Why Does It Matter",
+        "autores": "Luiz Cruz Villares",
+        "link_href": "https://doi.org/10.1007/978-3-030-55374-6_34",
+        "publicacao": "- Springer Nature"
+    },
+    "conteudo-138": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2022",
+        "titulo_obra": "The Impact of Battery-Electric Vehicles on Energy Consumption: A Macroeconomic Evidence from 29 European Countries",
+        "autores": "Matheus Koengkan, José Alberto Fuinhas, Matheus Belucio, Nooshin Karimi Alavijeh, Narges Salehnia, Daniel Machado, Vinícius Silva, Fatemeh Dehdar",
+        "link_href": "https://doi.org/10.3390/wevj13020036",
+        "publicacao": "- Multidisciplinary Digital Publishing Institute"
+    },
+    "conteudo-139": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2019",
+        "titulo_obra": "Learning Blockchain Delays",
+        "autores": "Saulo Ricci, Eduardo Antônio Ferreira, Daniel Sadoc Menasché, Artur Ziviani, José Eduardo de Souza, Alex Borges Vieira",
+        "link_href": "https://doi.org/10.1145/3308897.3308952",
+        "publicacao": "- Association for Computing Machinery"
+    },
+    "conteudo-140": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2019",
+        "titulo_obra": "Forecasting Bitcoin risk measures: A robust approach",
+        "autores": "Carlos Trucíos",
+        "link_href": "https://doi.org/10.1016/j.ijforecast.2019.01.003",
+        "publicacao": "- Elsevier BV"
+    },
+    "conteudo-141": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2023",
+        "titulo_obra": "Privacy-Preserving Blockchain Technologies",
+        "autores": "Dalton Cézane Gomes Valadares, Angelo Perkusich, Aldenor Falcão Martins, Mohammed B. M. Kamel, Chris Seline",
+        "link_href": "https://doi.org/10.3390/s23167172",
+        "publicacao": "- Multidisciplinary Digital Publishing Institute"
+    },
+    "conteudo-142": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2019",
+        "titulo_obra": "Blockchain adoption: A value driver perspective",
+        "autores": "Jannis Angelis, Elias Ribeiro da Silva",
+        "link_href": "https://doi.org/10.1016/j.bushor.2018.12.001",
+        "publicacao": "- Elsevier BV"
+    },
+    "conteudo-143": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2017",
+        "titulo_obra": "H/Rindex: The Hashing Power and Robustness Index, Computational Power-weighted Benchmark for Global Blockchain and Crypto Market",
+        "autores": "Husam Abboud",
+        "link_href": "https://doi.org/10.2139/ssrn.3136635",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-144": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2023",
+        "titulo_obra": "Problematic Trading: gambling-like behavior in day trading and cryptocurrency investing",
+        "autores": "Thiago Henrique Roza, Hermano Tavares, Félix Henrique Paim Kessler, Ives Cavalcante Passos",
+        "link_href": "https://doi.org/10.47626/2237-6089-2023-0623",
+        "publicacao": "- Associação de Psiquiatria do Rio Grande do Sul"
+    },
+    "conteudo-145": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2020",
+        "titulo_obra": "MineCap: super incremental learning for detecting and blocking cryptocurrency mining on software-defined networking",
+        "autores": "Helio N. Cunha Neto, Martin Andreoni Lopez, Natália C. Fernandes, Diogo M. F. Mattos",
+        "link_href": "https://doi.org/10.1007/s12243-019-00744-4",
+        "publicacao": "- Springer Nature"
+    },
+    "conteudo-146": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2019",
+        "titulo_obra": "Can artificial intelligence enhance the Bitcoin bonanza",
+        "autores": "Matheus José Silva de Souza, Fahad Almudhaf, Bruno Miranda Henrique, Ana Beatriz Silveira Negredo, Danilo Guimarães Franco Ramos, Vinícius Amorim Sobreiro, Herbert Kimura",
+        "link_href": "https://doi.org/10.1016/j.jfds.2019.01.002",
+        "publicacao": "- Elsevier BV"
+    },
+    "conteudo-147": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "Understanding Bitcoins: Facts and Questions",
+        "autores": "Bruno Saboia de Albuquerque, Marcelo de Castro Callado",
+        "link_href": "https://doi.org/10.5935/0034-7140.20150001",
+        "publicacao": "- FUNDAÇÃO GETÚLIO VARGAS"
+    },
+    "conteudo-148": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2019",
+        "titulo_obra": "Blockchain technology applications: a literature review",
+        "autores": "Marcelo Jasmim Meiriño, Mírian Picinini Méxas, Alexandre do Valle Faria, Rodrigo Picinini Méxas, Geisa Drumond Meirelles",
+        "link_href": "https://doi.org/10.14488/bjopm.2019.v16.n4.a12",
+        "publicacao": "- Associação Brasileira de Engenharia de Produção"
+    }
+}

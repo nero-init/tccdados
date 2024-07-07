@@ -1,0 +1,482 @@
+{
+    "conteudo-0": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "The Age of Cryptocurrency The Age of Cryptocurrency How Bitcoin and Digital Money Are Challenging the Global Economic Order Paul Vigna and Michael J. Casey St. Martin's, 2015. 367 pp.",
+        "autores": "Marie Vasek",
+        "link_href": "https://doi.org/10.1126/science.aab2001",
+        "publicacao": "- American Association for the Advancement of Science"
+    },
+    "conteudo-1": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "Cryptocurrency Mining – Transition to Cloud",
+        "autores": "R. Hari Krishnan, Y Sai Saketh, M Venkata Tej Vaibhav",
+        "link_href": "https://doi.org/10.14569/ijacsa.2015.060915",
+        "publicacao": "- Science and Information Organization"
+    },
+    "conteudo-2": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "A response to Dolliver's “Evaluating drug trafficking on the Tor Network: Silk Road 2, the sequel”",
+        "autores": "Judith Aldridge, David Décary-Hêtu",
+        "link_href": "https://doi.org/10.1016/j.drugpo.2015.05.017",
+        "publicacao": "- Elsevier BV"
+    },
+    "conteudo-3": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "Cryptocurrency with a Conscience: Using Artificial Intelligence to Develop Money that Advances Human Ethical Values",
+        "autores": "Matthew E. Gladden",
+        "link_href": "https://doi.org/10.18778/1899-2226.18.4.06",
+        "publicacao": "- University of Lodz Press"
+    },
+    "conteudo-4": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "Autonocoin: A Proof-of-Belief Cryptocurrency",
+        "autores": "Michael Abramowicz",
+        "link_href": "https://doi.org/10.2139/ssrn.2573810",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-5": {
+        "tipo_publicacao": "Capítulo de livro",
+        "ano": "2015",
+        "titulo_obra": "Seasonality and Interconnectivity Within Cryptocurrencies - An Analysis on the Basis of Bitcoin, Litecoin and Namecoin",
+        "autores": "Martin Haferkorn, Josué Manuel Quintana Diaz",
+        "link_href": "https://doi.org/10.1007/978-3-319-28151-3_8",
+        "publicacao": "- Springer Science+Business Media"
+    },
+    "conteudo-6": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "CRYPTOCURRENCIES, NETWORK EFFECTS, AND SWITCHING COSTS",
+        "autores": "William J. Luther",
+        "link_href": "https://doi.org/10.1111/coep.12151",
+        "publicacao": "- Wiley-Blackwell"
+    },
+    "conteudo-7": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "The Decision to Produce Altcoins: Miners' Arbitrage in Cryptocurrency Markets",
+        "autores": "Adam Hayes",
+        "link_href": "https://doi.org/10.2139/ssrn.2579448",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-8": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "Advancing a Framework for Regulating Cryptocurrency Payments Intermediaries",
+        "autores": "Sarah Jane Hughes, Stephen T. Middlebrook",
+        "link_href": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2673762",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-9": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "Bitcoin Mining",
+        "autores": "Hari Krishnan Ramachandran, Sai Saketh, Marichetty Venkata Teja Vaibhav",
+        "link_href": "https://doi.org/10.4018/ijcac.2015100104",
+        "publicacao": "- IGI Global"
+    },
+    "conteudo-10": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "Peer-to-Peer Law, Built on Bitcoin",
+        "autores": "Michael Abramowicz",
+        "link_href": "https://doi.org/10.2139/ssrn.2573788",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-11": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "Blockchains and Bitcoin: Regulatory responses to cryptocurrencies",
+        "autores": "Andrés Guadamuz, Christopher T. Marsden",
+        "link_href": "https://doi.org/10.5210/fm.v20i12.6198",
+        "publicacao": "- University of Illinois at Chicago"
+    },
+    "conteudo-12": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "Using an artificial financial market for studying a cryptocurrency market",
+        "autores": "Luisanna Cocco, Giulio Concas, Michele Marchesi",
+        "link_href": "https://doi.org/10.1007/s11403-015-0168-2",
+        "publicacao": "- Springer Science+Business Media"
+    },
+    "conteudo-13": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "Should Cryptocurrencies Be Included in the Portfolio of International Reserves Held by the Central Bank of Barbados?",
+        "autores": "Winston Moore, Jeremy Stephen",
+        "link_href": "https://doi.org/10.2139/ssrn.2775396",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-14": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "Bitcoin and the Blockchain: A Coup D''tat in Digital Heterotopia?",
+        "autores": "Donncha Kavanagh, Gianluca Miscione",
+        "link_href": "https://doi.org/10.2139/ssrn.2624922",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-15": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "Cryptocurrency Value Formation: An Empirical Analysis Leading to a Cost of Production Model for Valuing Bitcoin.",
+        "autores": "Adam Hayes",
+        "link_href": "https://doi.org/10.2139/ssrn.2648366",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-16": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "Cryptocurrencies: Are Disruptive Financial Innovations Here?",
+        "autores": "Gautam Vora",
+        "link_href": "https://doi.org/10.4236/me.2015.67077",
+        "publicacao": "- Scientific Research Publishing"
+    },
+    "conteudo-17": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "The State of Cryptocurrencies, Their Issues and Policy Interactions",
+        "autores": "Ramesh Subramanian, Theo Chino",
+        "link_href": "https://doi.org/10.58729/1941-6679.1045",
+        "publicacao": "| Journal of international technology and information management"
+    },
+    "conteudo-18": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "Blockchains and Bitcoin: Regulatory Responses to Cryptocurrencies",
+        "autores": "Andrés Guadamuz, Christopher T. Marsden",
+        "link_href": "https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2704852_code387238.pdf?abstractid=2704852&mirid=1&type=2",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-19": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "Bitcoin as Politics: Distributed Right-Wing Extremism",
+        "autores": "David Golumbia",
+        "link_href": "https://doi.org/10.2139/ssrn.2589890",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-20": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "The Relationship between the Cryptocurrency Value (Bitcoin) and Interest for It in the Region",
+        "autores": "Kristian Đokić, Mirjana Radman Funarić, Katarina Potnik Galić",
+        "link_href": "https://doi.org/10.2139/ssrn.3281915",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-21": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "The Evolution Of Digital Currencies: Bitcoin, A Cryptocurrency Causing A Monetary Revolution",
+        "autores": "Chris Rose",
+        "link_href": "https://doi.org/10.19030/iber.v14i4.9353",
+        "publicacao": "- Clute Institute"
+    },
+    "conteudo-22": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "Features of Using the Cryptocurrency",
+        "autores": "Ekaterina Mikhailovna Taran, Irina Pavlovna Salmanova, Elena Viktorovna Dokukina, Margarita Arkadevna Menshikova, Nelly Zinurovna Skudareva",
+        "link_href": "https://doi.org/10.5539/ass.v11n14p330",
+        "publicacao": "- Canadian Center of Science and Education"
+    },
+    "conteudo-23": {
+        "tipo_publicacao": "Capítulo de livro",
+        "ano": "2015",
+        "titulo_obra": "PoW-Based Distributed Cryptography with No Trusted Setup",
+        "autores": "Marcin Andrychowicz, Stefan Dziembowski",
+        "link_href": "https://doi.org/10.1007/978-3-662-48000-7_19",
+        "publicacao": "- Springer Science+Business Media"
+    },
+    "conteudo-24": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "Cryptocurrency Price Stability Using Seigniorage Shares, Decentralized Autonomous Reserve Bank, Bitcoin as Reserve Asset, and Proof-of-Payment",
+        "autores": "Ferdinando M. Ametrano",
+        "link_href": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2508296",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-25": {
+        "tipo_publicacao": "Capítulo de livro",
+        "ano": "2015",
+        "titulo_obra": "The Bitcoin Backbone Protocol: Analysis and Applications",
+        "autores": "Juan A. Garay, Aggelos Kiayias, Nikos Leonardos",
+        "link_href": "https://doi.org/10.1007/978-3-662-46803-6_10",
+        "publicacao": "- Springer Science+Business Media"
+    },
+    "conteudo-26": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "NeuCoin: The First Secure, Cost-Efficient and Decentralized Cryptocurrency",
+        "autores": "Kourosh Davarpanah, Dan Kaufman, Ophelie Pubellier",
+        "link_href": "https://doi.org/10.2139/ssrn.2585589",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-27": {
+        "tipo_publicacao": "Conjunto de dados",
+        "ano": "2015",
+        "titulo_obra": "Bitcoin Portfolio Hedging Using Protective Put Options",
+        "autores": "Philip Dunay, Michael P. Brady",
+        "link_href": "https://doi.org/10.15200/winn.145088.84878",
+        "publicacao": "- Wiley"
+    },
+    "conteudo-28": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "Crypto-currencies (Beyond Bitcoin, Chapter 4)",
+        "autores": "Hanna Hałaburda, Miklós Sárváry",
+        "link_href": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3135043",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-29": {
+        "tipo_publicacao": "Capítulo de livro",
+        "ano": "2015",
+        "titulo_obra": "Cryptocurrencies as a Disruption? Empirical Findings on User Adoption and Future Potential of Bitcoin and Co",
+        "autores": "Aaron W. Baur, Julian Bühler, Markus Bick, Charlotte S. Bonorden",
+        "link_href": "https://doi.org/10.1007/978-3-319-25013-7_6",
+        "publicacao": "- Springer Science+Business Media"
+    },
+    "conteudo-30": {
+        "tipo_publicacao": "Capítulo de livro",
+        "ano": "2015",
+        "titulo_obra": "A GRAPH-BASED INVESTIGATION OF BITCOIN TRANSACTIONS",
+        "autores": "Chen Zhao, Yong Liang Guan",
+        "link_href": "https://doi.org/10.1007/978-3-319-24123-4_5",
+        "publicacao": "- Springer Science+Business Media"
+    },
+    "conteudo-31": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "Bitcoin and the Bailout",
+        "autores": "William J. Luther, Alexander William Salter",
+        "link_href": "https://doi.org/10.2139/ssrn.2690452",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-32": {
+        "tipo_publicacao": "Capítulo de livro",
+        "ano": "2015",
+        "titulo_obra": "When Bitcoin Mining Pools Run Dry",
+        "autores": "Áron Lászka, Benjamin Johnson, Jens Großklags",
+        "link_href": "https://doi.org/10.1007/978-3-662-48051-9_5",
+        "publicacao": "- Springer Science+Business Media"
+    },
+    "conteudo-33": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "Reputation in the Internet black market: an empirical and theoretical analysis of the Deep Web",
+        "autores": "Robert Augustus Hardy, Julia R. Norgaard",
+        "link_href": "https://doi.org/10.1017/s1744137415000454",
+        "publicacao": "- Cambridge University Press"
+    },
+    "conteudo-34": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "CUSTODY CHAINS AND ASSET VALUES: WHY CRYPTO-SECURITIES ARE WORTH CONTEMPLATING",
+        "autores": "Eva Micheler",
+        "link_href": "https://doi.org/10.1017/s0008197315000598",
+        "publicacao": "- Cambridge University Press"
+    },
+    "conteudo-35": {
+        "tipo_publicacao": "Capítulo de livro",
+        "ano": "2015",
+        "titulo_obra": "Making Bitcoin Exchanges Transparent",
+        "autores": "Christian Decker, James Guthrie, Jochen Seidel, Roger Wattenhofer",
+        "link_href": "https://doi.org/10.1007/978-3-319-24177-7_28",
+        "publicacao": "- Springer Science+Business Media"
+    },
+    "conteudo-36": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "Cryptocash, cryptocurrencies, and cryptocontracts",
+        "autores": "Neal Koblitz, Alfred Menezes",
+        "link_href": "https://doi.org/10.1007/s10623-015-0148-5",
+        "publicacao": "- Springer Nature"
+    },
+    "conteudo-37": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "What Factors Give Cryptocurrencies Their Value: An Empirical Analysis",
+        "autores": "Adam Hayes",
+        "link_href": "https://doi.org/10.2139/ssrn.2579445",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-38": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "The future of cryptocurrencies: Bitcoin and beyond",
+        "autores": "Andy Extance",
+        "link_href": "https://doi.org/10.1038/526021a",
+        "publicacao": "- Nature Portfolio"
+    },
+    "conteudo-39": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "Goldstrike 1: CoinTerra's First-Generation Cryptocurrency Mining Processor for Bitcoin",
+        "autores": "J.S. Barkatullah, Timo Hanke",
+        "link_href": "https://doi.org/10.1109/mm.2015.13",
+        "publicacao": "- Institute of Electrical and Electronics Engineers"
+    },
+    "conteudo-40": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "Social signals and algorithmic trading of Bitcoin",
+        "autores": "David García, Frank Schweitzer",
+        "link_href": "https://doi.org/10.1098/rsos.150288",
+        "publicacao": "- Royal Society"
+    },
+    "conteudo-41": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "There are no Bitcoins, Only Bit Payers: Law, Policy and Socio-Economics of Virtual Currencies",
+        "autores": "Michael P. Malloy",
+        "link_href": "https://doi.org/10.30958/ajl.1.1.2",
+        "publicacao": "| Athens journal of law"
+    },
+    "conteudo-42": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "Beyond Cryptocurrencies - A Taxonomy of Decentralized Consensus Systems",
+        "autores": "Florian Glaser, Luis Bezzenberger",
+        "link_href": "https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2634892_code1955569.pdf?abstractid=2605803&mirid=1",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-43": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "Beyond Bitcoin: The Economics of Digital Currencies (Introduction)",
+        "autores": "Hanna Hałaburda, Miklós Sárváry",
+        "link_href": "https://doi.org/10.2139/ssrn.3135021",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-44": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "Does Bitcoin follow the hypothesis of efficient market?",
+        "autores": "Jakub Bartoš",
+        "link_href": "https://doi.org/10.20472/es.2015.4.2.002",
+        "publicacao": "- International Institute of Social and Economic Sciences"
+    },
+    "conteudo-45": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "Regulating Cryptocurrencies in Poland and in the World as Exemplified by Bitcoin – the Legal Status and Economic Assessment",
+        "autores": "Grzegorz Sobiecki",
+        "link_href": "https://doi.org/10.7172/1644-9584.54.10",
+        "publicacao": "| Problemy Zarządzania/Problemy Zarządzania"
+    },
+    "conteudo-46": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "Internet finance: Digital currencies and alternative finance liberating the capital markets",
+        "autores": "Kim Wales",
+        "link_href": "https://doi.org/10.22495/jgr_v4_i4_c1_p6",
+        "publicacao": "- Publishing house \"Virtus Interpress\""
+    },
+    "conteudo-47": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "Bitcoin: Not So Scary",
+        "autores": "",
+        "link_href": "https://doi.org/10.2139/ssrn.2600344",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-48": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "Those Things You Have Heard About Bitcoin: Distinguishing Signal From Noise",
+        "autores": "Matthew W. Swinehart, Merritt Rachel Baer",
+        "link_href": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3323877",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-49": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "BIBD, Hadamard matrices and new technological devices: Applications to QR codes",
+        "autores": "Teresa Oliveira, Carla Francisco",
+        "link_href": "https://doi.org/10.1063/1.4913044",
+        "publicacao": "- American Institute of Physics"
+    },
+    "conteudo-50": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "Radar everywhere",
+        "autores": "Mitchell Lazarus",
+        "link_href": "https://doi.org/10.1109/mspec.2015.7024512",
+        "publicacao": "- Institute of Electrical and Electronics Engineers"
+    },
+    "conteudo-51": {
+        "tipo_publicacao": "Capítulo de livro",
+        "ano": "2015",
+        "titulo_obra": "Research and Challenges on Bitcoin Anonymity",
+        "autores": "Jordi Herrera-Joancomartí",
+        "link_href": "https://doi.org/10.1007/978-3-319-17016-9_1",
+        "publicacao": "- Springer Science+Business Media"
+    },
+    "conteudo-52": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "Costs and Benefits to Phasing out Paper Currency",
+        "autores": "Kenneth Rogoff",
+        "link_href": "https://doi.org/10.1086/680657",
+        "publicacao": "- University of Chicago Press"
+    },
+    "conteudo-53": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "Price Fluctuations and the Use of Bitcoin: An Empirical Inquiry",
+        "autores": "Michał Polasik, Anna Piotrowska, Tomasz Piotr Wisniewski, Radosław Kotkowski, Geoffrey Lightfoot",
+        "link_href": "https://doi.org/10.1080/10864415.2016.1061413",
+        "publicacao": "- Taylor & Francis"
+    },
+    "conteudo-54": {
+        "tipo_publicacao": "Capítulo de livro",
+        "ano": "2015",
+        "titulo_obra": "The Bitcoin: The Currency of the Future, Fuel of Terror",
+        "autores": "A. Reyes Carmona",
+        "link_href": "https://doi.org/10.1007/978-3-319-23585-1_9",
+        "publicacao": "- Springer Nature"
+    },
+    "conteudo-55": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "Authority Printed Upon Emptiness",
+        "autores": "Kieron O’Hara",
+        "link_href": "https://doi.org/10.1109/mic.2015.122",
+        "publicacao": "- IEEE Computer Society"
+    },
+    "conteudo-56": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "Chips Off the Old Blockchain",
+        "autores": "DeCovnySherree",
+        "link_href": "https://doi.org/10.2469/cfm.v26.n6.8",
+        "publicacao": "- CFA Institute"
+    },
+    "conteudo-57": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "Understanding Bitcoins: Facts and Questions",
+        "autores": "Bruno Saboia de Albuquerque, Marcelo de Castro Callado",
+        "link_href": "https://doi.org/10.5935/0034-7140.20150001",
+        "publicacao": "- FUNDAÇÃO GETÚLIO VARGAS"
+    },
+    "conteudo-58": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "Habermasian Lifeworld & Durkheimian Anomie: Legitimizing Currency",
+        "autores": "Joseph Buckler Walton",
+        "link_href": "https://doi.org/10.2139/ssrn.2708301",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-59": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2015",
+        "titulo_obra": "Beyond Bitcoin: The Economics of Digital Currencies (Chapter 3: Platform-based Currencies)",
+        "autores": "Hanna Hałaburda, Miklós Sárváry",
+        "link_href": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3135030",
+        "publicacao": "- RELX Group (Netherlands)"
+    }
+}

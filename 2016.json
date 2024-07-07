@@ -1,0 +1,722 @@
+{
+    "conteudo-0": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Bitcoin and Cryptocurrencies - Not for the Faint-Hearted",
+        "autores": "Joerg Osterrieder, Julian Lorenz, Martin Strika",
+        "link_href": "https://doi.org/10.2139/ssrn.2867671",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-1": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Analysis of Cryptocurrencies Price Development",
+        "autores": "Jan Lánský",
+        "link_href": "https://doi.org/10.18267/j.aip.89",
+        "publicacao": "- Prague University of Economics and Business"
+    },
+    "conteudo-2": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Predicting Fluctuations in Cryptocurrency Transactions Based on User Comments and Replies",
+        "autores": "Young Bin Kim, Jun Gi Kim, Wook Kim, Jae Ho Im, Tae Hyeong Kim, Seong-Hoon Kang, Chang Hun Kim",
+        "link_href": "https://doi.org/10.1371/journal.pone.0161197",
+        "publicacao": "- Public Library of Science"
+    },
+    "conteudo-3": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Cryptocurrencies as narrative technologies",
+        "autores": "Mark Coeckelbergh, Wessel Reijers",
+        "link_href": "https://doi.org/10.1145/2874239.2874264",
+        "publicacao": "- Association for Computing Machinery"
+    },
+    "conteudo-4": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Legal Risks of Owning Cryptocurrencies",
+        "autores": "Kelvin Fatt Kin Low, Ernie G. S. Teo",
+        "link_href": "https://doi.org/10.2139/ssrn.2856137",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-5": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Cryptocurrency and Capital Controls",
+        "autores": "Jill Carlson",
+        "link_href": "https://doi.org/10.2139/ssrn.3046954",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-6": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Autonocoin: A Proof-of-Belief Cryptocurrency",
+        "autores": "Michael Abramowicz",
+        "link_href": "https://doi.org/10.5195/ledger.2016.37",
+        "publicacao": "- University Library System, University of Pittsburgh"
+    },
+    "conteudo-7": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "CoinAsia: A Sovereign Backed Cryptocurrency and Blockchain for Asia",
+        "autores": "Kartik Hegadekatti",
+        "link_href": "https://doi.org/10.2139/ssrn.2888721",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-8": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Can We Predict the Winner in a Market with Network Effects? Competition in Cryptocurrency Market",
+        "autores": "Neil Gandal, Hanna Hałaburda",
+        "link_href": "https://doi.org/10.3390/g7030016",
+        "publicacao": "- Multidisciplinary Digital Publishing Institute"
+    },
+    "conteudo-9": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Dynamic Topic Modelling for Cryptocurrency Community Forums",
+        "autores": "Marco Linton, Ernie G. S. Teo, Elisabeth Bommes, Cathy Chen, Wolfgang Karl Härdle",
+        "link_href": "https://doi.org/10.2139/ssrn.2875661",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-10": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Can We Predict the Winner in a Market with Network Effects? Competition in Cryptocurrency Market",
+        "autores": "Neil Gandal, Hanna Hałaburda",
+        "link_href": "https://doi.org/10.2139/ssrn.2832836",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-11": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "The Rise of Alternative Currencies in Post‐Capitalism",
+        "autores": "Boyd Cohen",
+        "link_href": "https://doi.org/10.1111/joms.12245",
+        "publicacao": "- Wiley-Blackwell"
+    },
+    "conteudo-12": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Blockchain Technology Use on Transactions of Crypto Currency with Machinery & Electronic Goods",
+        "autores": "Apoorva Ganapathy",
+        "link_href": "https://doi.org/10.18034/ajtp.v3i3.552",
+        "publicacao": "| American journal of trade and policy"
+    },
+    "conteudo-13": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Generation, Security and Distribution of NationCoins by a Sovereign Authority",
+        "autores": "Kartik Hegadekatti, S G Yatish",
+        "link_href": "https://doi.org/10.2139/ssrn.2888347",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-14": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Cryptocurrency: Next Level in the Evolution of Money",
+        "autores": "Ahmed M. Syed, Jamal Ahmed Moge, Mohammed Shandar Siddiqui",
+        "link_href": "https://doi.org/10.5958/2249-7307.2016.00055.4",
+        "publicacao": "- Asian Research Consortium"
+    },
+    "conteudo-15": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "The Evolution of Improvised Cryptocurrency – UVCoin",
+        "autores": "Jasmine Bedi Khurana, Utkarsh Wadhwa, Vivek Tomar",
+        "link_href": "https://doi.org/10.5120/ijca2016912441",
+        "publicacao": "| International journal of computer applications"
+    },
+    "conteudo-16": {
+        "tipo_publicacao": "Capítulo de livro",
+        "ano": "2016",
+        "titulo_obra": "Indistinguishable Proofs of Work or Knowledge",
+        "autores": "Foteini Baldimtsi, Aggelos Kiayias, Thomas Zacharias, Bingsheng Zhang",
+        "link_href": "https://doi.org/10.1007/978-3-662-53890-6_30",
+        "publicacao": "- Springer Science+Business Media"
+    },
+    "conteudo-17": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Examining Taxation of Fiat Money and Bitcoins vis-a-vis Regulated Cryptocurrencies",
+        "autores": "Kartik Hegadekatti, S G Yatish",
+        "link_href": "https://doi.org/10.2139/ssrn.2846645",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-18": {
+        "tipo_publicacao": "Capítulo de livro",
+        "ano": "2016",
+        "titulo_obra": "Credibility of Algorithm Based Decentralized Computer Networks Governing Personal Finances: The Case of Cryptocurrency",
+        "autores": "Sapumal Ahangama, Danny Chiang Choon Poo",
+        "link_href": "https://doi.org/10.1007/978-3-319-39396-4_15",
+        "publicacao": "- Springer Science+Business Media"
+    },
+    "conteudo-19": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Indigenous cryptocurrency: Affective capitalism and rhetorics of sovereignty",
+        "autores": "Cindy Tekobbe, John Carter McKnight",
+        "link_href": "https://doi.org/10.5210/fm.v21i10.6955",
+        "publicacao": "- University of Illinois at Chicago"
+    },
+    "conteudo-20": {
+        "tipo_publicacao": "Capítulo de livro",
+        "ano": "2016",
+        "titulo_obra": "The Quest for Scalable Blockchain Fabric: Proof-of-Work vs. BFT Replication",
+        "autores": "Marko Vukolić",
+        "link_href": "https://doi.org/10.1007/978-3-319-39028-4_9",
+        "publicacao": "- Springer Science+Business Media"
+    },
+    "conteudo-21": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "An ethnography of Bitcoin: Towards a future research agenda",
+        "autores": "Alexia Maddox, Supriya Singh, Heather A. Horst, Greg Adamson",
+        "link_href": "https://doi.org/10.18080/jtde.v4n1.49",
+        "publicacao": "| Journal of telecommunications and the digital economy"
+    },
+    "conteudo-22": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "An ethnography of Bitcoin: Towards a future research agenda",
+        "autores": "Alexia Maddox, Supriya Singh, Heather A. Horst, Greg Adamson",
+        "link_href": "https://doi.org/10.18080/ajtde.v4n1.49",
+        "publicacao": "| Journal of telecommunications and the digital economy"
+    },
+    "conteudo-23": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Cryptocurrencies Meeting Business Ecosystems: The Case of Bitcoin",
+        "autores": "Michel Rauchs",
+        "link_href": "https://doi.org/10.2139/ssrn.3095875",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-24": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "The Statistics of Bitcoin and Cryptocurrencies",
+        "autores": "Joerg Osterrieder",
+        "link_href": "https://doi.org/10.2139/ssrn.2872158",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-25": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "WorldMoney - The International Sovereign Backed Cryptocurrency",
+        "autores": "Kartik Hegadekatti",
+        "link_href": "https://doi.org/10.2139/ssrn.2888773",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-26": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Negative bubbles and shocks in cryptocurrency markets",
+        "autores": "John Fry, Eng-Tuck Cheah",
+        "link_href": "https://doi.org/10.1016/j.irfa.2016.02.008",
+        "publicacao": "- Elsevier BV"
+    },
+    "conteudo-27": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Banking Systems in an Economy Dominated by Cryptocurrencies",
+        "autores": "Kartik Hegadekatti, S G Yatish",
+        "link_href": "https://doi.org/10.2139/ssrn.2857490",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-28": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Should cryptocurrencies be included in the portfolio of international reserves held by central banks?",
+        "autores": "Winston Moore, Jeremy Stephen",
+        "link_href": "https://doi.org/10.1080/23322039.2016.1147119",
+        "publicacao": "- Cogent OA"
+    },
+    "conteudo-29": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Transaction Verification Model for Peer-to-Peer Service-Oriented Digital Currency Transactions Based on the Foundation of Blockchain Architecture",
+        "autores": "Iresha Rubasinghe",
+        "link_href": "https://doi.org/10.18034/ra.v4i3.306",
+        "publicacao": "| ABC research alert"
+    },
+    "conteudo-30": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Cryptocurrency and criminality",
+        "autores": "Steven David Brown",
+        "link_href": "https://doi.org/10.1177/0032258x16658927",
+        "publicacao": "- SAGE Publishing"
+    },
+    "conteudo-31": {
+        "tipo_publicacao": "Capítulo de livro",
+        "ano": "2016",
+        "titulo_obra": "Designing Proof of Human-Work Puzzles for Cryptocurrency and Beyond",
+        "autores": "Jeremiah Blocki, Hong-Sheng Zhou",
+        "link_href": "https://doi.org/10.1007/978-3-662-53644-5_20",
+        "publicacao": "- Springer Science+Business Media"
+    },
+    "conteudo-32": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Analiza perspektyw rozwoju bitcoina w kontekście możliwości pełnienia funkcji pieniądza",
+        "autores": "Tomasz Kopyściański, Marzena Franków",
+        "link_href": "https://doi.org/10.29015/cerem.283",
+        "publicacao": "| Central European Review of Economics and Management"
+    },
+    "conteudo-33": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "The Blockchain as a Narrative Technology: Investigating the Social Ontology and Normative Configurations of Cryptocurrencies",
+        "autores": "Wessel Reijers, Mark Coeckelbergh",
+        "link_href": "https://doi.org/10.1007/s13347-016-0239-x",
+        "publicacao": "- Springer Nature (Netherlands)"
+    },
+    "conteudo-34": {
+        "tipo_publicacao": "Capítulo de livro",
+        "ano": "2016",
+        "titulo_obra": "Cryptocurrencies Without Proof of Work",
+        "autores": "Iddo Bentov, Ariel Gabizon, Alex Mizrahi",
+        "link_href": "https://doi.org/10.1007/978-3-662-53357-4_10",
+        "publicacao": "- Springer Science+Business Media"
+    },
+    "conteudo-35": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Extra-Terrestrial Applications of Blockchains and Cryptocurrencies",
+        "autores": "Kartik Hegadekatti",
+        "link_href": "https://doi.org/10.2139/ssrn.2882763",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-36": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "A Regression Analysis of Cryptocurrency Influence on the US Dollar",
+        "autores": "Alina Khvan",
+        "link_href": "https://doi.org/10.2139/ssrn.2843142",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-37": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Research for Practice: Cryptocurrencies, Blockchains, and Smart Contracts; Hardware for Deep Learning",
+        "autores": "Arvind Narayanan, Andrew Miller, Song Han",
+        "link_href": "https://doi.org/10.1145/3028687.3043967",
+        "publicacao": "- Association for Computing Machinery"
+    },
+    "conteudo-38": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Teller Machines of the Digital Economy: Blockchain Interaction Units (BIU)",
+        "autores": "Kartik Hegadekatti",
+        "link_href": "https://doi.org/10.2139/ssrn.2890186",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-39": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Ring Confidential Transactions",
+        "autores": "Shen Noether, Adam Mackenzie",
+        "link_href": "https://doi.org/10.5195/ledger.2016.34",
+        "publicacao": "- University Library System, University of Pittsburgh"
+    },
+    "conteudo-40": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Transaction Verification Model for Peer-to-Peer Service-Oriented Digital Currency Transactions Based on the Foundation of Blockchain Architecture",
+        "autores": "Iresha Rubasinghe",
+        "link_href": "https://doi.org/10.18034/abcra.v4i3.306",
+        "publicacao": "| ABC research alert"
+    },
+    "conteudo-41": {
+        "tipo_publicacao": "Outro",
+        "ano": "2016",
+        "titulo_obra": "Blockchain will lead next global tech revolution",
+        "autores": "",
+        "link_href": "https://doi.org/10.1108/oxan-db212134",
+        "publicacao": "- Emerald Publishing Limited"
+    },
+    "conteudo-42": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Automation Processes and Blockchain Systems",
+        "autores": "Kartik Hegadekatti",
+        "link_href": "https://doi.org/10.2139/ssrn.2890435",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-43": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Order Flow and the Bitcoin Spot Rate",
+        "autores": "K. H. McIntyre, Kristine Harjes",
+        "link_href": "https://doi.org/10.11114/aef.v3i3.1574",
+        "publicacao": "| Applied economics and finance"
+    },
+    "conteudo-44": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Listening to Whispers of Ripple: Linking Wallets and Deanonymizing Transactions in the Ripple Network",
+        "autores": "Pedro Moreno-Sanchez, Muhammad Bilal Zafar, Aniket Kate",
+        "link_href": "https://doi.org/10.1515/popets-2016-0049",
+        "publicacao": "- De Gruyter Open"
+    },
+    "conteudo-45": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Virtual Currency: New Step in Monetary Development",
+        "autores": "Alina Dibrova",
+        "link_href": "https://doi.org/10.1016/j.sbspro.2016.07.112",
+        "publicacao": "- Elsevier BV"
+    },
+    "conteudo-46": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Rapid Prototyping of a Text Mining Application for Cryptocurrency Market Intelligence",
+        "autores": "Marek Laskowski, Henry M. Kim",
+        "link_href": "https://doi.org/10.2139/ssrn.2798486",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-47": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "סקירת דין איסור הלבנת הון: חידושים מקומיים ומגמות גלובליות(Anti Money Laundering: Local Developments and Global Trends)",
+        "autores": "Ido Baum",
+        "link_href": "https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2820497_code416173.pdf?abstractid=2820497&mirid=1&type=2",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-48": {
+        "tipo_publicacao": "Capítulo de livro",
+        "ano": "2016",
+        "titulo_obra": "A Cryptographic Approach for Implementing Semantic Web’s Trust Layer",
+        "autores": "Bogdan Iancu, Cristian Sandu",
+        "link_href": "https://doi.org/10.1007/978-3-319-47238-6_9",
+        "publicacao": "- Springer Science+Business Media"
+    },
+    "conteudo-49": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Lévy copulae for financial returns",
+        "autores": "Ostap Okhrin",
+        "link_href": "https://doi.org/10.1515/demo-2016-0017",
+        "publicacao": "- De Gruyter Open"
+    },
+    "conteudo-50": {
+        "tipo_publicacao": "Capítulo de livro",
+        "ano": "2016",
+        "titulo_obra": "Efficient Zero-Knowledge Contingent Payments in Cryptocurrencies Without Scripts",
+        "autores": "Wacław Banasik, Stefan Dziembowski, Daniel Malinowski",
+        "link_href": "https://doi.org/10.1007/978-3-319-45741-3_14",
+        "publicacao": "- Springer Science+Business Media"
+    },
+    "conteudo-51": {
+        "tipo_publicacao": "Capítulo de livro",
+        "ano": "2016",
+        "titulo_obra": "On Bitcoin Security in the Presence of Broken Cryptographic Primitives",
+        "autores": "Ilias Giechaskiel, Cas Cremers, Kasper Rasmussen",
+        "link_href": "https://doi.org/10.1007/978-3-319-45741-3_11",
+        "publicacao": "- Springer Science+Business Media"
+    },
+    "conteudo-52": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Digital sustainability: basic conditions for sustainable digital artifacts and their ecosystems",
+        "autores": "Matthias Stuermer, Gabriel Abu-Tayeh, Thomas Myrach",
+        "link_href": "https://doi.org/10.1007/s11625-016-0412-2",
+        "publicacao": "- Springer Science+Business Media"
+    },
+    "conteudo-53": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "ASIC clouds",
+        "autores": "Ikuo Magaki, Moein Khazraee, Luis Vega Gutierrez, Michael Taylor",
+        "link_href": "https://doi.org/10.1145/3007787.3001156",
+        "publicacao": "- ACM SIGARCH"
+    },
+    "conteudo-54": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Digital Art as ‘Monetised Graphics’: Enforcing Intellectual Property on the Blockchain",
+        "autores": "Martin Zeilinger",
+        "link_href": "https://doi.org/10.1007/s13347-016-0243-1",
+        "publicacao": "- Springer Nature (Netherlands)"
+    },
+    "conteudo-55": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Disrupting Governance: The New Institutional Economics of Distributed Ledger Technology",
+        "autores": "Sinclair Davidson, Primavera De Filippi, Jason Potts",
+        "link_href": "https://doi.org/10.2139/ssrn.2811995",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-56": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Cryptocurrencies and Business Ethics",
+        "autores": "Claus Dierksmeier, Peter Seele",
+        "link_href": "https://doi.org/10.1007/s10551-016-3298-0",
+        "publicacao": "- Springer Science+Business Media"
+    },
+    "conteudo-57": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "The transparency paradox. Building trust, resolving disputes and optimising logistics on conventional and online drugs markets",
+        "autores": "Meropi Tzanetakis, Gerrit Kamphausen, Bernd Werse, Roger von Laufenberg",
+        "link_href": "https://doi.org/10.1016/j.drugpo.2015.12.010",
+        "publicacao": "- Elsevier BV"
+    },
+    "conteudo-58": {
+        "tipo_publicacao": "Capítulo de livro",
+        "ano": "2016",
+        "titulo_obra": "Why Buy When You Can Rent?",
+        "autores": "Joseph Bonneau",
+        "link_href": "https://doi.org/10.1007/978-3-662-53357-4_2",
+        "publicacao": "- Springer Science+Business Media"
+    },
+    "conteudo-59": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Safer scoring? Cryptomarkets, social supply and drug market violence",
+        "autores": "Monica J. Barratt, Jason Ferris, Adam Winstock",
+        "link_href": "https://doi.org/10.1016/j.drugpo.2016.04.019",
+        "publicacao": "- Elsevier BV"
+    },
+    "conteudo-60": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "The inefficiency of Bitcoin",
+        "autores": "Andrew Urquhart",
+        "link_href": "https://doi.org/10.1016/j.econlet.2016.09.019",
+        "publicacao": "- Elsevier BV"
+    },
+    "conteudo-61": {
+        "tipo_publicacao": "Capítulo de livro",
+        "ano": "2016",
+        "titulo_obra": "On Scaling Decentralized Blockchains",
+        "autores": "Kyle Croman, Christian Decker, Ittay Eyal, Adem Efe Gencer, Ari Juels, Ahmed E. Kosba, Andrew Miller, Prateek Saxena, Elaine Shi, Emin Gün Sirer, Dawn Song, Roger Wattenhofer",
+        "link_href": "https://doi.org/10.1007/978-3-662-53357-4_8",
+        "publicacao": "- Springer Science+Business Media"
+    },
+    "conteudo-62": {
+        "tipo_publicacao": "Capítulo de livro",
+        "ano": "2016",
+        "titulo_obra": "Step by Step Towards Creating a Safe Smart Contract: Lessons and Insights from a Cryptocurrency Lab",
+        "autores": "Kevin Delmolino, Mitchell Arnett, Ahmed E. Kosba, Andrew Miller, Elaine Shi",
+        "link_href": "https://doi.org/10.1007/978-3-662-53357-4_6",
+        "publicacao": "- Springer Science+Business Media"
+    },
+    "conteudo-63": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Cryptocurrency in China: Light-Touch Regulation in Demand",
+        "autores": "Misha Yang",
+        "link_href": "https://doi.org/10.2139/ssrn.2792477",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-64": {
+        "tipo_publicacao": "Capítulo de livro",
+        "ano": "2016",
+        "titulo_obra": "Blockchain Temporality: Smart Contract Time Specifiability with Blocktime",
+        "autores": "Melanie Swan",
+        "link_href": "https://doi.org/10.1007/978-3-319-42019-6_12",
+        "publicacao": "- Springer Science+Business Media"
+    },
+    "conteudo-65": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Reputation and Reward: Two Sides of the Same Bitcoin",
+        "autores": "Sergi Delgado-Segura, Cristian Tanas, Jordi Herrera-Joancomartí",
+        "link_href": "https://doi.org/10.3390/s16060776",
+        "publicacao": "- Multidisciplinary Digital Publishing Institute"
+    },
+    "conteudo-66": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "A First Econometric Analysis of the CRIX Family",
+        "autores": "Shi Chen, Cathy Yi‐Hsuan Chen, Wolfgang Karl Härdle, TM Lee, Bobby Ong",
+        "link_href": "https://doi.org/10.2139/ssrn.2832099",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-67": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Speed Optimizations in Bitcoin Key Recovery Attacks",
+        "autores": "Nicolas T. Courtois, Guangyan Song, Ryan Castellucci",
+        "link_href": "https://doi.org/10.1515/tmmp-2016-0030",
+        "publicacao": "- De Gruyter"
+    },
+    "conteudo-68": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Digital Currencies: Beyond Bitcoin",
+        "autores": "Hanna Hałaburda",
+        "link_href": "https://doi.org/10.2139/ssrn.2865004",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-69": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Where Is Current Research on Blockchain Technology?—A Systematic Review",
+        "autores": "Jesse Yli-Huumo, Deokyoon Ko, Sujin Choi, Sooyong Park, Kari Smolander",
+        "link_href": "https://doi.org/10.1371/journal.pone.0163477",
+        "publicacao": "- Public Library of Science"
+    },
+    "conteudo-70": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Blockchains and Online Dispute Resolution: Smart Contracts as an Alternative to Enforcement",
+        "autores": "Riikka Koulu",
+        "link_href": "https://doi.org/10.2966/script.130116.40",
+        "publicacao": "- University of Edinburgh"
+    },
+    "conteudo-71": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Unofficial Exchange Rates in Managed and Market Regimes with Differing Capital Controls: An Analysis Using Bitcoin",
+        "autores": "Gina Pieters",
+        "link_href": "https://doi.org/10.2139/ssrn.2714921",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-72": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Bitcoin and Cryptocurrency Technologies Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller and Steven Goldfeder.",
+        "autores": "",
+        "link_href": "https://doi.org/10.1016/s1353-4858(16)30074-5",
+        "publicacao": "- Elsevier BV"
+    },
+    "conteudo-73": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Superabundant design",
+        "autores": "Pablo R. Velasco González",
+        "link_href": "https://doi.org/10.7146/aprja.v5i1.116041",
+        "publicacao": "| A peer-reviewed journal about --"
+    },
+    "conteudo-74": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Bitcoin: A Regression Analysis of Cryptocurrency Influence on the Russian Economy",
+        "autores": "A. S. Loseva",
+        "link_href": "https://doi.org/10.2139/ssrn.2765198",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-75": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Bitcoin: First Decentralized Payment System",
+        "autores": "Richa Kaushal",
+        "link_href": "https://doi.org/10.18535/ijecs/v5i5.30",
+        "publicacao": "- Engg Journals Publications"
+    },
+    "conteudo-76": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Can Cryptocurrencies Fulfil the Functions of Money?",
+        "autores": "Saifedean Ammous",
+        "link_href": "https://doi.org/10.2139/ssrn.2832769",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-77": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Practitioner's Corner ∙ Blockchain Technology and the GDPR – How to Reconcile Privacy and Distributed Ledgers?",
+        "autores": "Matthias Berberich, Malgorzata Steiner",
+        "link_href": "https://doi.org/10.21552/edpl/2016/3/21",
+        "publicacao": "- Q1822344"
+    },
+    "conteudo-78": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Cryptocurrency system experiences multimillion-dollar theft",
+        "autores": "",
+        "link_href": "https://doi.org/10.1063/pt.5.029911",
+        "publicacao": "- AIP Publishing"
+    },
+    "conteudo-79": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Fermentation chemicals market to reach $81.14 bn by 2024",
+        "autores": "",
+        "link_href": "https://doi.org/10.1016/j.focat.2016.07.006",
+        "publicacao": "- Elsevier BV"
+    },
+    "conteudo-80": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Governance and Geopolitics in the Age of Blockchains and Cryptocurrencies",
+        "autores": "Kartik Hegadekatti",
+        "link_href": "https://doi.org/10.2139/ssrn.2889314",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-81": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "A Statistical Risk Assessment of Bitcoin and Its Extreme Tail Behaviour",
+        "autores": "Joerg Osterrieder, Julian Lorenz",
+        "link_href": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2867339",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-82": {
+        "tipo_publicacao": "Capítulo de livro",
+        "ano": "2016",
+        "titulo_obra": "An analysis of the Bitcoin users graph: inferring unusual behaviours",
+        "autores": "Damiano Di Francesco Maesa, Andrea Marino, Laura Ricci",
+        "link_href": "https://doi.org/10.1007/978-3-319-50901-3_59",
+        "publicacao": "- Springer Nature"
+    },
+    "conteudo-83": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Bitcoin, Blockchain, and Distributed Ledgers: Between Hype and Reality",
+        "autores": "Ferdinando M. Ametrano",
+        "link_href": "https://doi.org/10.2139/ssrn.2832249",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-84": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Modern Outlook on the Nature of Money",
+        "autores": "Galina S. Panova",
+        "link_href": "https://doi.org/10.17485/ijst/2015/v8is10/84858",
+        "publicacao": "- Indian Society for Education and Environment"
+    },
+    "conteudo-85": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Blockchain: A Primer",
+        "autores": "Gerald P. Dwyer",
+        "link_href": "https://doi.org/10.2139/ssrn.2900450",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-86": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "The Inefficiency of Bitcoin",
+        "autores": "Andrew Urquhart",
+        "link_href": "https://doi.org/10.2139/ssrn.2828745",
+        "publicacao": "- RELX Group (Netherlands)"
+    },
+    "conteudo-87": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Visualizing Dynamic Bitcoin Transaction Patterns",
+        "autores": "Dan McGinn, David Birch, David Akroyd, Miguel Molina-Solana, Yike Guo, William J. Knottenbelt",
+        "link_href": "https://doi.org/10.1089/big.2015.0056",
+        "publicacao": "- Mary Ann Liebert, Inc."
+    },
+    "conteudo-88": {
+        "tipo_publicacao": "Capítulo de livro",
+        "ano": "2016",
+        "titulo_obra": "Fair and Robust Multi-party Computation Using a Global Transaction Ledger",
+        "autores": "Aggelos Kiayias, Hong-Sheng Zhou, Vassilis Zikas",
+        "link_href": "https://doi.org/10.1007/978-3-662-49896-5_25",
+        "publicacao": "- Springer Science+Business Media"
+    },
+    "conteudo-89": {
+        "tipo_publicacao": "Artigo",
+        "ano": "2016",
+        "titulo_obra": "Botcrafting and Botbreeding : A Simplified Economics of Evolutionary Algorithms",
+        "autores": "Idriss Aberkane",
+        "link_href": "https://doi.org/10.7202/1043909ar",
+        "publicacao": "| Sens public"
+    }
+}

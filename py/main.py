@@ -81,7 +81,8 @@ def main():
     options = webdriver.ChromeOptions()
     driver = webdriver.Chrome(options=options)
 
-    url = "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br/index.php/acervo/buscador.html?q=concepts%3Ablockchain+OR+cryptocurrency&mode=advanced"
+    #url = "https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br/index.php/acervo/buscador.html?q=concepts%3Ablockchain+OR+cryptocurrency&mode=advanced"
+    url = "https://www.periodicos.capes.gov.br/index.php/acervo/buscador.html?q=all%3Acontains%28blockchain%29+OR+all%3Acontains%28crypto%29&mode=advanced&source=all"
     driver.get(url)
     driver.implicitly_wait(2)
 

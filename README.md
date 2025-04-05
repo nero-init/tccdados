@@ -1,8 +1,46 @@
-Projeto de WEBSCRAPING no Portal CAPES, utilizado para a produção da minha monografia em Ciências Contábeis.
-Com o título: “UMA PESQUISA BIBLIOMÉTRICA SOBRE BLOCKCHAIN E MOEDAS DIGITAIS: ANÁLISE DAS PUBLICAÇÕES NO PERIÓDICO CAPES DE 2013 A 2023”.
+# 📚 Projeto de Web Scraping no Portal CAPES
 
-Em resumo, realizei a coleta de todas as publicações listadas nesse período no Portal CAPES, buscando compreender o contexto jurídico e tecnológico no Brasil. Como um aspirante a engenheiro de dados, utilizei técnicas de web scraping com Python para extrair os dados do portal CAPES, armazenando-os em um banco de dados PostgreSQL, utilizando SQL, e aplicando análises estatísticas no Excel.
+Este projeto foi desenvolvido como parte da minha **monografia em Ciências Contábeis**, com o título:
 
-Dos 9.012 artigos mapeados, filtrei uma amostra de 144 produções nacionais. Um dado que chamou atenção foi que, dessa produção nacional, apenas oito artigos estão publicados em português, representando apenas 5,6% do total. Isso reflete a baixa produção nacional em um tema tão relevante, com impacto que transcende o contexto contábil.
+> **“Uma Pesquisa Bibliométrica sobre Blockchain e Moedas Digitais: Análise das Publicações no Periódico CAPES de 2013 a 2023”**
 
-Essa descoberta reforça o quanto ainda temos a avançar na produção acadêmica brasileira sobre blockchain e moedas digitais, áreas de extrema importância tanto no cenário global. E que no Brasil, ainda carecemos de estudos e pronunciamentos financeiros acerca do tema.
+---
+
+## 🧠 Objetivo
+
+O objetivo principal foi coletar e analisar publicações do **Portal CAPES**, buscando compreender o **contexto jurídico e tecnológico** relacionado a blockchain e moedas digitais no Brasil entre os anos de **2013 e 2023**.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Python** → Web scraping com bibliotecas como `requests`, `BeautifulSoup`, `Selenium`, entre outras.  
+- **PostgreSQL** → Armazenamento estruturado dos dados extraídos.  
+- **SQL** → Manipulação e extração de insights a partir do banco de dados.  
+- **Excel** → Análises estatísticas e geração de gráficos e tabelas.
+
+---
+
+## 📊 Resultados
+
+- Foram mapeadas **9.012 publicações** no total.
+- Destas, **144** foram identificadas como **produções nacionais** relacionadas ao tema.
+- Apenas **8 artigos** nacionais estão publicados em **português**, representando **5,6%** do total analisado.
+
+> ⚠️ Esse dado evidencia a **baixa produção acadêmica nacional** sobre um tema tão relevante e com grande impacto, inclusive no campo contábil.
+
+---
+
+## 💡 Conclusão
+
+A pesquisa demonstra que o **Brasil ainda carece de estudos acadêmicos e posicionamentos técnicos** sobre blockchain e moedas digitais.  
+Mesmo sendo um tema de crescente importância no cenário global, a produção nacional ainda é limitada — um chamado à academia e à comunidade científica para ampliar os debates e investigações nessa área.
+
+---
+
+## 📈 Inspiração Profissional
+
+Como **aspirante a engenheiro de dados**, este projeto me permitiu integrar habilidades técnicas com uma investigação científica aplicada, unindo **dados, contabilidade e tecnologia**.
+
+## 🎥 Assista a apresentação final
+https://youtu.be/yObj45WouHE
